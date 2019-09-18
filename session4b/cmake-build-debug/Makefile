@@ -148,6 +148,19 @@ session4b3/fast:
 	$(MAKE) -f CMakeFiles\session4b3.dir\build.make CMakeFiles/session4b3.dir/build
 .PHONY : session4b3/fast
 
+#=============================================================================
+# Target rules for targets named session4b4
+
+# Build rule for target.
+session4b4: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 session4b4
+.PHONY : session4b4
+
+# fast build rule for target.
+session4b4/fast:
+	$(MAKE) -f CMakeFiles\session4b4.dir\build.make CMakeFiles/session4b4.dir/build
+.PHONY : session4b4/fast
+
 ejercicio2.obj: ejercicio2.cpp.obj
 
 .PHONY : ejercicio2.obj
@@ -229,6 +242,33 @@ ejercicio4.cpp.s:
 	$(MAKE) -f CMakeFiles\session4b3.dir\build.make CMakeFiles/session4b3.dir/ejercicio4.cpp.s
 .PHONY : ejercicio4.cpp.s
 
+fibonacci_recursivo.obj: fibonacci_recursivo.cpp.obj
+
+.PHONY : fibonacci_recursivo.obj
+
+# target to build an object file
+fibonacci_recursivo.cpp.obj:
+	$(MAKE) -f CMakeFiles\session4b4.dir\build.make CMakeFiles/session4b4.dir/fibonacci_recursivo.cpp.obj
+.PHONY : fibonacci_recursivo.cpp.obj
+
+fibonacci_recursivo.i: fibonacci_recursivo.cpp.i
+
+.PHONY : fibonacci_recursivo.i
+
+# target to preprocess a source file
+fibonacci_recursivo.cpp.i:
+	$(MAKE) -f CMakeFiles\session4b4.dir\build.make CMakeFiles/session4b4.dir/fibonacci_recursivo.cpp.i
+.PHONY : fibonacci_recursivo.cpp.i
+
+fibonacci_recursivo.s: fibonacci_recursivo.cpp.s
+
+.PHONY : fibonacci_recursivo.s
+
+# target to generate assembly for a file
+fibonacci_recursivo.cpp.s:
+	$(MAKE) -f CMakeFiles\session4b4.dir\build.make CMakeFiles/session4b4.dir/fibonacci_recursivo.cpp.s
+.PHONY : fibonacci_recursivo.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -238,6 +278,7 @@ help:
 	@echo ... session4b2
 	@echo ... session4b
 	@echo ... session4b3
+	@echo ... session4b4
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... ejercicio2.obj
@@ -249,6 +290,9 @@ help:
 	@echo ... ejercicio4.obj
 	@echo ... ejercicio4.i
 	@echo ... ejercicio4.s
+	@echo ... fibonacci_recursivo.obj
+	@echo ... fibonacci_recursivo.i
+	@echo ... fibonacci_recursivo.s
 .PHONY : help
 
 

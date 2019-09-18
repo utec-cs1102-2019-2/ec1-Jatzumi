@@ -4,6 +4,7 @@
     <generated>
       <config projectName="session4b" targetName="session4b2" />
       <config projectName="session4b" targetName="session4b3" />
+      <config projectName="session4b" targetName="session4b4" />
       <config projectName="session4b" targetName="session4b" />
     </generated>
   </component>
@@ -67,10 +68,16 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="session4b4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="session4b" TARGET_NAME="session4b4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="session4b" RUN_TARGET_NAME="session4b4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="CMake Application.session4b" />
       <item itemvalue="CMake Application.session4b2" />
       <item itemvalue="CMake Application.session4b3" />
+      <item itemvalue="CMake Application.session4b4" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -84,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1568303378805</updated>
       <workItem from="1568303381547" duration="5038000" />
-      <workItem from="1568773172950" duration="168000" />
+      <workItem from="1568773172950" duration="671000" />
     </task>
     <servers />
   </component>
