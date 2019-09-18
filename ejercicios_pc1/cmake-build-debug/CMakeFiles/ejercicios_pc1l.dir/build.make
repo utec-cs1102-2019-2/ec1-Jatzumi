@@ -56,27 +56,27 @@ include CMakeFiles/ejercicios_pc1l.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/ejercicios_pc1l.dir/flags.make
 
-CMakeFiles/ejercicios_pc1l.dir/doble_digito.cpp.obj: CMakeFiles/ejercicios_pc1l.dir/flags.make
-CMakeFiles/ejercicios_pc1l.dir/doble_digito.cpp.obj: ../doble_digito.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\ejercicios_pc1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ejercicios_pc1l.dir/doble_digito.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ejercicios_pc1l.dir\doble_digito.cpp.obj -c C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\ejercicios_pc1\doble_digito.cpp
+CMakeFiles/ejercicios_pc1l.dir/invertir_digito.cpp.obj: CMakeFiles/ejercicios_pc1l.dir/flags.make
+CMakeFiles/ejercicios_pc1l.dir/invertir_digito.cpp.obj: ../invertir_digito.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\ejercicios_pc1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ejercicios_pc1l.dir/invertir_digito.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ejercicios_pc1l.dir\invertir_digito.cpp.obj -c C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\ejercicios_pc1\invertir_digito.cpp
 
-CMakeFiles/ejercicios_pc1l.dir/doble_digito.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ejercicios_pc1l.dir/doble_digito.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\ejercicios_pc1\doble_digito.cpp > CMakeFiles\ejercicios_pc1l.dir\doble_digito.cpp.i
+CMakeFiles/ejercicios_pc1l.dir/invertir_digito.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ejercicios_pc1l.dir/invertir_digito.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\ejercicios_pc1\invertir_digito.cpp > CMakeFiles\ejercicios_pc1l.dir\invertir_digito.cpp.i
 
-CMakeFiles/ejercicios_pc1l.dir/doble_digito.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ejercicios_pc1l.dir/doble_digito.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\ejercicios_pc1\doble_digito.cpp -o CMakeFiles\ejercicios_pc1l.dir\doble_digito.cpp.s
+CMakeFiles/ejercicios_pc1l.dir/invertir_digito.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ejercicios_pc1l.dir/invertir_digito.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\ejercicios_pc1\invertir_digito.cpp -o CMakeFiles\ejercicios_pc1l.dir\invertir_digito.cpp.s
 
 # Object files for target ejercicios_pc1l
 ejercicios_pc1l_OBJECTS = \
-"CMakeFiles/ejercicios_pc1l.dir/doble_digito.cpp.obj"
+"CMakeFiles/ejercicios_pc1l.dir/invertir_digito.cpp.obj"
 
 # External object files for target ejercicios_pc1l
 ejercicios_pc1l_EXTERNAL_OBJECTS =
 
-ejercicios_pc1l.exe: CMakeFiles/ejercicios_pc1l.dir/doble_digito.cpp.obj
+ejercicios_pc1l.exe: CMakeFiles/ejercicios_pc1l.dir/invertir_digito.cpp.obj
 ejercicios_pc1l.exe: CMakeFiles/ejercicios_pc1l.dir/build.make
 ejercicios_pc1l.exe: CMakeFiles/ejercicios_pc1l.dir/linklibs.rsp
 ejercicios_pc1l.exe: CMakeFiles/ejercicios_pc1l.dir/objects1.rsp

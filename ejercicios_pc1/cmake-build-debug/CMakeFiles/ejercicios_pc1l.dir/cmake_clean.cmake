@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ejercicios_pc1l.dir/doble_digito.cpp.obj"
+  "CMakeFiles/ejercicios_pc1l.dir/invertir_digito.cpp.obj"
   "ejercicios_pc1l.pdb"
   "ejercicios_pc1l.exe"
   "ejercicios_pc1l.exe.manifest"

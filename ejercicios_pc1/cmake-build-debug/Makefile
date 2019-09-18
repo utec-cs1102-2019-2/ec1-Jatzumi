@@ -278,6 +278,45 @@ ejercicios_pc1l/fast:
 	$(MAKE) -f CMakeFiles\ejercicios_pc1l.dir\build.make CMakeFiles/ejercicios_pc1l.dir/build
 .PHONY : ejercicios_pc1l/fast
 
+#=============================================================================
+# Target rules for targets named ejercicios_pc1m
+
+# Build rule for target.
+ejercicios_pc1m: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 ejercicios_pc1m
+.PHONY : ejercicios_pc1m
+
+# fast build rule for target.
+ejercicios_pc1m/fast:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1m.dir\build.make CMakeFiles/ejercicios_pc1m.dir/build
+.PHONY : ejercicios_pc1m/fast
+
+#=============================================================================
+# Target rules for targets named ejercicios_pc1n
+
+# Build rule for target.
+ejercicios_pc1n: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 ejercicios_pc1n
+.PHONY : ejercicios_pc1n
+
+# fast build rule for target.
+ejercicios_pc1n/fast:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1n.dir\build.make CMakeFiles/ejercicios_pc1n.dir/build
+.PHONY : ejercicios_pc1n/fast
+
+#=============================================================================
+# Target rules for targets named ejercicios_pc1o
+
+# Build rule for target.
+ejercicios_pc1o: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 ejercicios_pc1o
+.PHONY : ejercicios_pc1o
+
+# fast build rule for target.
+ejercicios_pc1o/fast:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1o.dir\build.make CMakeFiles/ejercicios_pc1o.dir/build
+.PHONY : ejercicios_pc1o/fast
+
 MCD.obj: MCD.cpp.obj
 
 .PHONY : MCD.obj
@@ -359,33 +398,6 @@ contar_vocales.cpp.s:
 	$(MAKE) -f CMakeFiles\ejercicios_pc1f.dir\build.make CMakeFiles/ejercicios_pc1f.dir/contar_vocales.cpp.s
 .PHONY : contar_vocales.cpp.s
 
-doble_digito.obj: doble_digito.cpp.obj
-
-.PHONY : doble_digito.obj
-
-# target to build an object file
-doble_digito.cpp.obj:
-	$(MAKE) -f CMakeFiles\ejercicios_pc1l.dir\build.make CMakeFiles/ejercicios_pc1l.dir/doble_digito.cpp.obj
-.PHONY : doble_digito.cpp.obj
-
-doble_digito.i: doble_digito.cpp.i
-
-.PHONY : doble_digito.i
-
-# target to preprocess a source file
-doble_digito.cpp.i:
-	$(MAKE) -f CMakeFiles\ejercicios_pc1l.dir\build.make CMakeFiles/ejercicios_pc1l.dir/doble_digito.cpp.i
-.PHONY : doble_digito.cpp.i
-
-doble_digito.s: doble_digito.cpp.s
-
-.PHONY : doble_digito.s
-
-# target to generate assembly for a file
-doble_digito.cpp.s:
-	$(MAKE) -f CMakeFiles\ejercicios_pc1l.dir\build.make CMakeFiles/ejercicios_pc1l.dir/doble_digito.cpp.s
-.PHONY : doble_digito.cpp.s
-
 esta_doble.obj: esta_doble.cpp.obj
 
 .PHONY : esta_doble.obj
@@ -439,6 +451,33 @@ fecha.s: fecha.cpp.s
 fecha.cpp.s:
 	$(MAKE) -f CMakeFiles\ejercicios_pc1k.dir\build.make CMakeFiles/ejercicios_pc1k.dir/fecha.cpp.s
 .PHONY : fecha.cpp.s
+
+invertir_digito.obj: invertir_digito.cpp.obj
+
+.PHONY : invertir_digito.obj
+
+# target to build an object file
+invertir_digito.cpp.obj:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1l.dir\build.make CMakeFiles/ejercicios_pc1l.dir/invertir_digito.cpp.obj
+.PHONY : invertir_digito.cpp.obj
+
+invertir_digito.i: invertir_digito.cpp.i
+
+.PHONY : invertir_digito.i
+
+# target to preprocess a source file
+invertir_digito.cpp.i:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1l.dir\build.make CMakeFiles/ejercicios_pc1l.dir/invertir_digito.cpp.i
+.PHONY : invertir_digito.cpp.i
+
+invertir_digito.s: invertir_digito.cpp.s
+
+.PHONY : invertir_digito.s
+
+# target to generate assembly for a file
+invertir_digito.cpp.s:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1l.dir\build.make CMakeFiles/ejercicios_pc1l.dir/invertir_digito.cpp.s
+.PHONY : invertir_digito.cpp.s
 
 numero3_5_7.obj: numero3_5_7.cpp.obj
 
@@ -602,6 +641,87 @@ piramide_asteriscos.cpp.s:
 	$(MAKE) -f CMakeFiles\ejercicios_pc1c.dir\build.make CMakeFiles/ejercicios_pc1c.dir/piramide_asteriscos.cpp.s
 .PHONY : piramide_asteriscos.cpp.s
 
+potencia2.obj: potencia2.cpp.obj
+
+.PHONY : potencia2.obj
+
+# target to build an object file
+potencia2.cpp.obj:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1o.dir\build.make CMakeFiles/ejercicios_pc1o.dir/potencia2.cpp.obj
+.PHONY : potencia2.cpp.obj
+
+potencia2.i: potencia2.cpp.i
+
+.PHONY : potencia2.i
+
+# target to preprocess a source file
+potencia2.cpp.i:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1o.dir\build.make CMakeFiles/ejercicios_pc1o.dir/potencia2.cpp.i
+.PHONY : potencia2.cpp.i
+
+potencia2.s: potencia2.cpp.s
+
+.PHONY : potencia2.s
+
+# target to generate assembly for a file
+potencia2.cpp.s:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1o.dir\build.make CMakeFiles/ejercicios_pc1o.dir/potencia2.cpp.s
+.PHONY : potencia2.cpp.s
+
+ruta.obj: ruta.cpp.obj
+
+.PHONY : ruta.obj
+
+# target to build an object file
+ruta.cpp.obj:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1n.dir\build.make CMakeFiles/ejercicios_pc1n.dir/ruta.cpp.obj
+.PHONY : ruta.cpp.obj
+
+ruta.i: ruta.cpp.i
+
+.PHONY : ruta.i
+
+# target to preprocess a source file
+ruta.cpp.i:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1n.dir\build.make CMakeFiles/ejercicios_pc1n.dir/ruta.cpp.i
+.PHONY : ruta.cpp.i
+
+ruta.s: ruta.cpp.s
+
+.PHONY : ruta.s
+
+# target to generate assembly for a file
+ruta.cpp.s:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1n.dir\build.make CMakeFiles/ejercicios_pc1n.dir/ruta.cpp.s
+.PHONY : ruta.cpp.s
+
+segundos_a_hms.obj: segundos_a_hms.cpp.obj
+
+.PHONY : segundos_a_hms.obj
+
+# target to build an object file
+segundos_a_hms.cpp.obj:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1m.dir\build.make CMakeFiles/ejercicios_pc1m.dir/segundos_a_hms.cpp.obj
+.PHONY : segundos_a_hms.cpp.obj
+
+segundos_a_hms.i: segundos_a_hms.cpp.i
+
+.PHONY : segundos_a_hms.i
+
+# target to preprocess a source file
+segundos_a_hms.cpp.i:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1m.dir\build.make CMakeFiles/ejercicios_pc1m.dir/segundos_a_hms.cpp.i
+.PHONY : segundos_a_hms.cpp.i
+
+segundos_a_hms.s: segundos_a_hms.cpp.s
+
+.PHONY : segundos_a_hms.s
+
+# target to generate assembly for a file
+segundos_a_hms.cpp.s:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1m.dir\build.make CMakeFiles/ejercicios_pc1m.dir/segundos_a_hms.cpp.s
+.PHONY : segundos_a_hms.cpp.s
+
 sumadigitos.obj: sumadigitos.cpp.obj
 
 .PHONY : sumadigitos.obj
@@ -648,6 +768,9 @@ help:
 	@echo ... ejercicios_pc1j
 	@echo ... ejercicios_pc1k
 	@echo ... ejercicios_pc1l
+	@echo ... ejercicios_pc1m
+	@echo ... ejercicios_pc1n
+	@echo ... ejercicios_pc1o
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... MCD.obj
@@ -659,15 +782,15 @@ help:
 	@echo ... contar_vocales.obj
 	@echo ... contar_vocales.i
 	@echo ... contar_vocales.s
-	@echo ... doble_digito.obj
-	@echo ... doble_digito.i
-	@echo ... doble_digito.s
 	@echo ... esta_doble.obj
 	@echo ... esta_doble.i
 	@echo ... esta_doble.s
 	@echo ... fecha.obj
 	@echo ... fecha.i
 	@echo ... fecha.s
+	@echo ... invertir_digito.obj
+	@echo ... invertir_digito.i
+	@echo ... invertir_digito.s
 	@echo ... numero3_5_7.obj
 	@echo ... numero3_5_7.i
 	@echo ... numero3_5_7.s
@@ -686,6 +809,15 @@ help:
 	@echo ... piramide_asteriscos.obj
 	@echo ... piramide_asteriscos.i
 	@echo ... piramide_asteriscos.s
+	@echo ... potencia2.obj
+	@echo ... potencia2.i
+	@echo ... potencia2.s
+	@echo ... ruta.obj
+	@echo ... ruta.i
+	@echo ... ruta.s
+	@echo ... segundos_a_hms.obj
+	@echo ... segundos_a_hms.i
+	@echo ... segundos_a_hms.s
 	@echo ... sumadigitos.obj
 	@echo ... sumadigitos.i
 	@echo ... sumadigitos.s
