@@ -2,8 +2,9 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="ejercicios_pc1" targetName="ejercicios_pc1a" />
+      <config projectName="ejercicios_pc1" targetName="ejercicios_pc1k" />
       <config projectName="ejercicios_pc1" targetName="ejercicios_pc1j" />
+      <config projectName="ejercicios_pc1" targetName="ejercicios_pc1l" />
       <config projectName="ejercicios_pc1" targetName="ejercicios_pc1g" />
       <config projectName="ejercicios_pc1" targetName="ejercicios_pc1f" />
       <config projectName="ejercicios_pc1" targetName="ejercicios_pc1i" />
@@ -13,6 +14,7 @@
       <config projectName="ejercicios_pc1" targetName="ejercicios_pc1b" />
       <config projectName="ejercicios_pc1" targetName="ejercicios_pc1e" />
       <config projectName="ejercicios_pc1" targetName="ejercicios_pc1d" />
+      <config projectName="ejercicios_pc1" targetName="ejercicios_pc1a" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -60,7 +62,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.ejercicios_pc1f">
+  <component name="RunManager" selected="CMake Application.ejercicios_pc1e">
     <configuration name="ejercicios_pc1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ejercicios_pc1" TARGET_NAME="ejercicios_pc1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ejercicios_pc1" RUN_TARGET_NAME="ejercicios_pc1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -116,6 +118,16 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ejercicios_pc1k" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ejercicios_pc1" TARGET_NAME="ejercicios_pc1k" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ejercicios_pc1" RUN_TARGET_NAME="ejercicios_pc1k">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejercicios_pc1l" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ejercicios_pc1" TARGET_NAME="ejercicios_pc1l" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ejercicios_pc1" RUN_TARGET_NAME="ejercicios_pc1l">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="CMake Application.ejercicios_pc1" />
       <item itemvalue="CMake Application.ejercicios_pc1a" />
@@ -128,6 +140,8 @@
       <item itemvalue="CMake Application.ejercicios_pc1h" />
       <item itemvalue="CMake Application.ejercicios_pc1i" />
       <item itemvalue="CMake Application.ejercicios_pc1j" />
+      <item itemvalue="CMake Application.ejercicios_pc1k" />
+      <item itemvalue="CMake Application.ejercicios_pc1l" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -140,7 +154,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568774101316</updated>
-      <workItem from="1568774102532" duration="4009000" />
+      <workItem from="1568774102532" duration="5936000" />
     </task>
     <servers />
   </component>

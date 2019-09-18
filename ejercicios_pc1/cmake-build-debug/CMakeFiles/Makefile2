@@ -471,6 +471,80 @@ clean: CMakeFiles/ejercicios_pc1j.dir/clean
 .PHONY : clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/ejercicios_pc1k.dir
+
+# All Build rule for target.
+CMakeFiles/ejercicios_pc1k.dir/all:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1k.dir\build.make CMakeFiles/ejercicios_pc1k.dir/depend
+	$(MAKE) -f CMakeFiles\ejercicios_pc1k.dir\build.make CMakeFiles/ejercicios_pc1k.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\ejercicios_pc1\cmake-build-debug\CMakeFiles --progress-num=23,24 "Built target ejercicios_pc1k"
+.PHONY : CMakeFiles/ejercicios_pc1k.dir/all
+
+# Include target in all.
+all: CMakeFiles/ejercicios_pc1k.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/ejercicios_pc1k.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\ejercicios_pc1\cmake-build-debug\CMakeFiles 2
+	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/ejercicios_pc1k.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\ejercicios_pc1\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/ejercicios_pc1k.dir/rule
+
+# Convenience name for target.
+ejercicios_pc1k: CMakeFiles/ejercicios_pc1k.dir/rule
+
+.PHONY : ejercicios_pc1k
+
+# clean rule for target.
+CMakeFiles/ejercicios_pc1k.dir/clean:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1k.dir\build.make CMakeFiles/ejercicios_pc1k.dir/clean
+.PHONY : CMakeFiles/ejercicios_pc1k.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/ejercicios_pc1k.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/ejercicios_pc1l.dir
+
+# All Build rule for target.
+CMakeFiles/ejercicios_pc1l.dir/all:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1l.dir\build.make CMakeFiles/ejercicios_pc1l.dir/depend
+	$(MAKE) -f CMakeFiles\ejercicios_pc1l.dir\build.make CMakeFiles/ejercicios_pc1l.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\ejercicios_pc1\cmake-build-debug\CMakeFiles --progress-num=25,26 "Built target ejercicios_pc1l"
+.PHONY : CMakeFiles/ejercicios_pc1l.dir/all
+
+# Include target in all.
+all: CMakeFiles/ejercicios_pc1l.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/ejercicios_pc1l.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\ejercicios_pc1\cmake-build-debug\CMakeFiles 2
+	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/ejercicios_pc1l.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\ejercicios_pc1\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/ejercicios_pc1l.dir/rule
+
+# Convenience name for target.
+ejercicios_pc1l: CMakeFiles/ejercicios_pc1l.dir/rule
+
+.PHONY : ejercicios_pc1l
+
+# clean rule for target.
+CMakeFiles/ejercicios_pc1l.dir/clean:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1l.dir\build.make CMakeFiles/ejercicios_pc1l.dir/clean
+.PHONY : CMakeFiles/ejercicios_pc1l.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/ejercicios_pc1l.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Special targets to cleanup operation of make.
 
 # Special rule to run CMake to check the build system integrity.

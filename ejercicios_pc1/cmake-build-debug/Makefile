@@ -252,6 +252,32 @@ ejercicios_pc1j/fast:
 	$(MAKE) -f CMakeFiles\ejercicios_pc1j.dir\build.make CMakeFiles/ejercicios_pc1j.dir/build
 .PHONY : ejercicios_pc1j/fast
 
+#=============================================================================
+# Target rules for targets named ejercicios_pc1k
+
+# Build rule for target.
+ejercicios_pc1k: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 ejercicios_pc1k
+.PHONY : ejercicios_pc1k
+
+# fast build rule for target.
+ejercicios_pc1k/fast:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1k.dir\build.make CMakeFiles/ejercicios_pc1k.dir/build
+.PHONY : ejercicios_pc1k/fast
+
+#=============================================================================
+# Target rules for targets named ejercicios_pc1l
+
+# Build rule for target.
+ejercicios_pc1l: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 ejercicios_pc1l
+.PHONY : ejercicios_pc1l
+
+# fast build rule for target.
+ejercicios_pc1l/fast:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1l.dir\build.make CMakeFiles/ejercicios_pc1l.dir/build
+.PHONY : ejercicios_pc1l/fast
+
 MCD.obj: MCD.cpp.obj
 
 .PHONY : MCD.obj
@@ -333,6 +359,33 @@ contar_vocales.cpp.s:
 	$(MAKE) -f CMakeFiles\ejercicios_pc1f.dir\build.make CMakeFiles/ejercicios_pc1f.dir/contar_vocales.cpp.s
 .PHONY : contar_vocales.cpp.s
 
+doble_digito.obj: doble_digito.cpp.obj
+
+.PHONY : doble_digito.obj
+
+# target to build an object file
+doble_digito.cpp.obj:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1l.dir\build.make CMakeFiles/ejercicios_pc1l.dir/doble_digito.cpp.obj
+.PHONY : doble_digito.cpp.obj
+
+doble_digito.i: doble_digito.cpp.i
+
+.PHONY : doble_digito.i
+
+# target to preprocess a source file
+doble_digito.cpp.i:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1l.dir\build.make CMakeFiles/ejercicios_pc1l.dir/doble_digito.cpp.i
+.PHONY : doble_digito.cpp.i
+
+doble_digito.s: doble_digito.cpp.s
+
+.PHONY : doble_digito.s
+
+# target to generate assembly for a file
+doble_digito.cpp.s:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1l.dir\build.make CMakeFiles/ejercicios_pc1l.dir/doble_digito.cpp.s
+.PHONY : doble_digito.cpp.s
+
 esta_doble.obj: esta_doble.cpp.obj
 
 .PHONY : esta_doble.obj
@@ -359,6 +412,33 @@ esta_doble.s: esta_doble.cpp.s
 esta_doble.cpp.s:
 	$(MAKE) -f CMakeFiles\ejercicios_pc1e.dir\build.make CMakeFiles/ejercicios_pc1e.dir/esta_doble.cpp.s
 .PHONY : esta_doble.cpp.s
+
+fecha.obj: fecha.cpp.obj
+
+.PHONY : fecha.obj
+
+# target to build an object file
+fecha.cpp.obj:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1k.dir\build.make CMakeFiles/ejercicios_pc1k.dir/fecha.cpp.obj
+.PHONY : fecha.cpp.obj
+
+fecha.i: fecha.cpp.i
+
+.PHONY : fecha.i
+
+# target to preprocess a source file
+fecha.cpp.i:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1k.dir\build.make CMakeFiles/ejercicios_pc1k.dir/fecha.cpp.i
+.PHONY : fecha.cpp.i
+
+fecha.s: fecha.cpp.s
+
+.PHONY : fecha.s
+
+# target to generate assembly for a file
+fecha.cpp.s:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1k.dir\build.make CMakeFiles/ejercicios_pc1k.dir/fecha.cpp.s
+.PHONY : fecha.cpp.s
 
 numero3_5_7.obj: numero3_5_7.cpp.obj
 
@@ -566,6 +646,8 @@ help:
 	@echo ... ejercicios_pc1g
 	@echo ... ejercicios_pc1i
 	@echo ... ejercicios_pc1j
+	@echo ... ejercicios_pc1k
+	@echo ... ejercicios_pc1l
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... MCD.obj
@@ -577,9 +659,15 @@ help:
 	@echo ... contar_vocales.obj
 	@echo ... contar_vocales.i
 	@echo ... contar_vocales.s
+	@echo ... doble_digito.obj
+	@echo ... doble_digito.i
+	@echo ... doble_digito.s
 	@echo ... esta_doble.obj
 	@echo ... esta_doble.i
 	@echo ... esta_doble.s
+	@echo ... fecha.obj
+	@echo ... fecha.i
+	@echo ... fecha.s
 	@echo ... numero3_5_7.obj
 	@echo ... numero3_5_7.i
 	@echo ... numero3_5_7.s
