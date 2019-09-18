@@ -1,0 +1,6 @@
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc1/cmake-build-debug/CMakeFiles/ejercicios_pc1.dir
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc1/cmake-build-debug/CMakeFiles/ejercicios_pc1a.dir
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc1/cmake-build-debug/CMakeFiles/ejercicios_pc1b.dir
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc1/cmake-build-debug/CMakeFiles/ejercicios_pc1c.dir
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc1/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -3,9 +3,9 @@
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="session4b" targetName="session4b2" />
-      <config projectName="session4b" targetName="session4b3" />
-      <config projectName="session4b" targetName="session4b4" />
       <config projectName="session4b" targetName="session4b" />
+      <config projectName="session4b" targetName="session4b4" />
+      <config projectName="session4b" targetName="session4b3" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -33,6 +33,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -91,7 +92,8 @@
       <option name="presentableId" value="Default" />
       <updated>1568303378805</updated>
       <workItem from="1568303381547" duration="5038000" />
-      <workItem from="1568773172950" duration="671000" />
+      <workItem from="1568773172950" duration="924000" />
+      <workItem from="1568774451867" duration="117000" />
     </task>
     <servers />
   </component>
