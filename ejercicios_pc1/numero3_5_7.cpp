@@ -28,7 +28,4 @@ int main() {
         cout<<"Numeo de veces que se encentra contenido el entero 3:"<<reduce_Multiplo(n,3)<<endl ;
         return 0;
     }
-}//
-// Created by jatzu on 17/09/2019.
-//
-
+}

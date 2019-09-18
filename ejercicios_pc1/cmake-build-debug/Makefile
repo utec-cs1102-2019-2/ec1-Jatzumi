@@ -55,17 +55,6 @@ CMAKE_BINARY_DIR = C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\ejercic
 #=============================================================================
 # Targets provided globally by CMake.
 
-# Special rule for the target rebuild_cache
-rebuild_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	"C:\Program Files\JetBrains\CLion 2019.2.2\bin\cmake\win\bin\cmake.exe" -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
-.PHONY : rebuild_cache
-
-# Special rule for the target rebuild_cache
-rebuild_cache/fast: rebuild_cache
-
-.PHONY : rebuild_cache/fast
-
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
@@ -76,6 +65,17 @@ edit_cache:
 edit_cache/fast: edit_cache
 
 .PHONY : edit_cache/fast
+
+# Special rule for the target rebuild_cache
+rebuild_cache:
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
+	"C:\Program Files\JetBrains\CLion 2019.2.2\bin\cmake\win\bin\cmake.exe" -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+.PHONY : rebuild_cache
+
+# Special rule for the target rebuild_cache
+rebuild_cache/fast: rebuild_cache
+
+.PHONY : rebuild_cache/fast
 
 # The main all target
 all: cmake_check_build_system
@@ -123,6 +123,19 @@ ejercicios_pc1/fast:
 .PHONY : ejercicios_pc1/fast
 
 #=============================================================================
+# Target rules for targets named ejercicios_pc1h
+
+# Build rule for target.
+ejercicios_pc1h: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 ejercicios_pc1h
+.PHONY : ejercicios_pc1h
+
+# fast build rule for target.
+ejercicios_pc1h/fast:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1h.dir\build.make CMakeFiles/ejercicios_pc1h.dir/build
+.PHONY : ejercicios_pc1h/fast
+
+#=============================================================================
 # Target rules for targets named ejercicios_pc1a
 
 # Build rule for target.
@@ -161,6 +174,192 @@ ejercicios_pc1c/fast:
 	$(MAKE) -f CMakeFiles\ejercicios_pc1c.dir\build.make CMakeFiles/ejercicios_pc1c.dir/build
 .PHONY : ejercicios_pc1c/fast
 
+#=============================================================================
+# Target rules for targets named ejercicios_pc1d
+
+# Build rule for target.
+ejercicios_pc1d: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 ejercicios_pc1d
+.PHONY : ejercicios_pc1d
+
+# fast build rule for target.
+ejercicios_pc1d/fast:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1d.dir\build.make CMakeFiles/ejercicios_pc1d.dir/build
+.PHONY : ejercicios_pc1d/fast
+
+#=============================================================================
+# Target rules for targets named ejercicios_pc1e
+
+# Build rule for target.
+ejercicios_pc1e: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 ejercicios_pc1e
+.PHONY : ejercicios_pc1e
+
+# fast build rule for target.
+ejercicios_pc1e/fast:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1e.dir\build.make CMakeFiles/ejercicios_pc1e.dir/build
+.PHONY : ejercicios_pc1e/fast
+
+#=============================================================================
+# Target rules for targets named ejercicios_pc1f
+
+# Build rule for target.
+ejercicios_pc1f: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 ejercicios_pc1f
+.PHONY : ejercicios_pc1f
+
+# fast build rule for target.
+ejercicios_pc1f/fast:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1f.dir\build.make CMakeFiles/ejercicios_pc1f.dir/build
+.PHONY : ejercicios_pc1f/fast
+
+#=============================================================================
+# Target rules for targets named ejercicios_pc1g
+
+# Build rule for target.
+ejercicios_pc1g: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 ejercicios_pc1g
+.PHONY : ejercicios_pc1g
+
+# fast build rule for target.
+ejercicios_pc1g/fast:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1g.dir\build.make CMakeFiles/ejercicios_pc1g.dir/build
+.PHONY : ejercicios_pc1g/fast
+
+#=============================================================================
+# Target rules for targets named ejercicios_pc1i
+
+# Build rule for target.
+ejercicios_pc1i: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 ejercicios_pc1i
+.PHONY : ejercicios_pc1i
+
+# fast build rule for target.
+ejercicios_pc1i/fast:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1i.dir\build.make CMakeFiles/ejercicios_pc1i.dir/build
+.PHONY : ejercicios_pc1i/fast
+
+#=============================================================================
+# Target rules for targets named ejercicios_pc1j
+
+# Build rule for target.
+ejercicios_pc1j: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 ejercicios_pc1j
+.PHONY : ejercicios_pc1j
+
+# fast build rule for target.
+ejercicios_pc1j/fast:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1j.dir\build.make CMakeFiles/ejercicios_pc1j.dir/build
+.PHONY : ejercicios_pc1j/fast
+
+MCD.obj: MCD.cpp.obj
+
+.PHONY : MCD.obj
+
+# target to build an object file
+MCD.cpp.obj:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1i.dir\build.make CMakeFiles/ejercicios_pc1i.dir/MCD.cpp.obj
+.PHONY : MCD.cpp.obj
+
+MCD.i: MCD.cpp.i
+
+.PHONY : MCD.i
+
+# target to preprocess a source file
+MCD.cpp.i:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1i.dir\build.make CMakeFiles/ejercicios_pc1i.dir/MCD.cpp.i
+.PHONY : MCD.cpp.i
+
+MCD.s: MCD.cpp.s
+
+.PHONY : MCD.s
+
+# target to generate assembly for a file
+MCD.cpp.s:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1i.dir\build.make CMakeFiles/ejercicios_pc1i.dir/MCD.cpp.s
+.PHONY : MCD.cpp.s
+
+MCD_euclides.obj: MCD_euclides.cpp.obj
+
+.PHONY : MCD_euclides.obj
+
+# target to build an object file
+MCD_euclides.cpp.obj:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1d.dir\build.make CMakeFiles/ejercicios_pc1d.dir/MCD_euclides.cpp.obj
+.PHONY : MCD_euclides.cpp.obj
+
+MCD_euclides.i: MCD_euclides.cpp.i
+
+.PHONY : MCD_euclides.i
+
+# target to preprocess a source file
+MCD_euclides.cpp.i:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1d.dir\build.make CMakeFiles/ejercicios_pc1d.dir/MCD_euclides.cpp.i
+.PHONY : MCD_euclides.cpp.i
+
+MCD_euclides.s: MCD_euclides.cpp.s
+
+.PHONY : MCD_euclides.s
+
+# target to generate assembly for a file
+MCD_euclides.cpp.s:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1d.dir\build.make CMakeFiles/ejercicios_pc1d.dir/MCD_euclides.cpp.s
+.PHONY : MCD_euclides.cpp.s
+
+contar_vocales.obj: contar_vocales.cpp.obj
+
+.PHONY : contar_vocales.obj
+
+# target to build an object file
+contar_vocales.cpp.obj:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1f.dir\build.make CMakeFiles/ejercicios_pc1f.dir/contar_vocales.cpp.obj
+.PHONY : contar_vocales.cpp.obj
+
+contar_vocales.i: contar_vocales.cpp.i
+
+.PHONY : contar_vocales.i
+
+# target to preprocess a source file
+contar_vocales.cpp.i:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1f.dir\build.make CMakeFiles/ejercicios_pc1f.dir/contar_vocales.cpp.i
+.PHONY : contar_vocales.cpp.i
+
+contar_vocales.s: contar_vocales.cpp.s
+
+.PHONY : contar_vocales.s
+
+# target to generate assembly for a file
+contar_vocales.cpp.s:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1f.dir\build.make CMakeFiles/ejercicios_pc1f.dir/contar_vocales.cpp.s
+.PHONY : contar_vocales.cpp.s
+
+esta_doble.obj: esta_doble.cpp.obj
+
+.PHONY : esta_doble.obj
+
+# target to build an object file
+esta_doble.cpp.obj:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1e.dir\build.make CMakeFiles/ejercicios_pc1e.dir/esta_doble.cpp.obj
+.PHONY : esta_doble.cpp.obj
+
+esta_doble.i: esta_doble.cpp.i
+
+.PHONY : esta_doble.i
+
+# target to preprocess a source file
+esta_doble.cpp.i:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1e.dir\build.make CMakeFiles/ejercicios_pc1e.dir/esta_doble.cpp.i
+.PHONY : esta_doble.cpp.i
+
+esta_doble.s: esta_doble.cpp.s
+
+.PHONY : esta_doble.s
+
+# target to generate assembly for a file
+esta_doble.cpp.s:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1e.dir\build.make CMakeFiles/ejercicios_pc1e.dir/esta_doble.cpp.s
+.PHONY : esta_doble.cpp.s
+
 numero3_5_7.obj: numero3_5_7.cpp.obj
 
 .PHONY : numero3_5_7.obj
@@ -187,6 +386,60 @@ numero3_5_7.s: numero3_5_7.cpp.s
 numero3_5_7.cpp.s:
 	$(MAKE) -f CMakeFiles\ejercicios_pc1b.dir\build.make CMakeFiles/ejercicios_pc1b.dir/numero3_5_7.cpp.s
 .PHONY : numero3_5_7.cpp.s
+
+numero_armonico.obj: numero_armonico.cpp.obj
+
+.PHONY : numero_armonico.obj
+
+# target to build an object file
+numero_armonico.cpp.obj:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1h.dir\build.make CMakeFiles/ejercicios_pc1h.dir/numero_armonico.cpp.obj
+.PHONY : numero_armonico.cpp.obj
+
+numero_armonico.i: numero_armonico.cpp.i
+
+.PHONY : numero_armonico.i
+
+# target to preprocess a source file
+numero_armonico.cpp.i:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1h.dir\build.make CMakeFiles/ejercicios_pc1h.dir/numero_armonico.cpp.i
+.PHONY : numero_armonico.cpp.i
+
+numero_armonico.s: numero_armonico.cpp.s
+
+.PHONY : numero_armonico.s
+
+# target to generate assembly for a file
+numero_armonico.cpp.s:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1h.dir\build.make CMakeFiles/ejercicios_pc1h.dir/numero_armonico.cpp.s
+.PHONY : numero_armonico.cpp.s
+
+numero_binario.obj: numero_binario.cpp.obj
+
+.PHONY : numero_binario.obj
+
+# target to build an object file
+numero_binario.cpp.obj:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1g.dir\build.make CMakeFiles/ejercicios_pc1g.dir/numero_binario.cpp.obj
+.PHONY : numero_binario.cpp.obj
+
+numero_binario.i: numero_binario.cpp.i
+
+.PHONY : numero_binario.i
+
+# target to preprocess a source file
+numero_binario.cpp.i:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1g.dir\build.make CMakeFiles/ejercicios_pc1g.dir/numero_binario.cpp.i
+.PHONY : numero_binario.cpp.i
+
+numero_binario.s: numero_binario.cpp.s
+
+.PHONY : numero_binario.s
+
+# target to generate assembly for a file
+numero_binario.cpp.s:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1g.dir\build.make CMakeFiles/ejercicios_pc1g.dir/numero_binario.cpp.s
+.PHONY : numero_binario.cpp.s
 
 numeros_primos.obj: numeros_primos.cpp.obj
 
@@ -269,6 +522,33 @@ piramide_asteriscos.cpp.s:
 	$(MAKE) -f CMakeFiles\ejercicios_pc1c.dir\build.make CMakeFiles/ejercicios_pc1c.dir/piramide_asteriscos.cpp.s
 .PHONY : piramide_asteriscos.cpp.s
 
+sumadigitos.obj: sumadigitos.cpp.obj
+
+.PHONY : sumadigitos.obj
+
+# target to build an object file
+sumadigitos.cpp.obj:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1j.dir\build.make CMakeFiles/ejercicios_pc1j.dir/sumadigitos.cpp.obj
+.PHONY : sumadigitos.cpp.obj
+
+sumadigitos.i: sumadigitos.cpp.i
+
+.PHONY : sumadigitos.i
+
+# target to preprocess a source file
+sumadigitos.cpp.i:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1j.dir\build.make CMakeFiles/ejercicios_pc1j.dir/sumadigitos.cpp.i
+.PHONY : sumadigitos.cpp.i
+
+sumadigitos.s: sumadigitos.cpp.s
+
+.PHONY : sumadigitos.s
+
+# target to generate assembly for a file
+sumadigitos.cpp.s:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1j.dir\build.make CMakeFiles/ejercicios_pc1j.dir/sumadigitos.cpp.s
+.PHONY : sumadigitos.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -276,14 +556,39 @@ help:
 	@echo ... clean
 	@echo ... depend
 	@echo ... ejercicios_pc1
+	@echo ... ejercicios_pc1h
 	@echo ... ejercicios_pc1a
 	@echo ... ejercicios_pc1b
-	@echo ... rebuild_cache
 	@echo ... ejercicios_pc1c
+	@echo ... ejercicios_pc1d
+	@echo ... ejercicios_pc1e
+	@echo ... ejercicios_pc1f
+	@echo ... ejercicios_pc1g
+	@echo ... ejercicios_pc1i
+	@echo ... ejercicios_pc1j
 	@echo ... edit_cache
+	@echo ... rebuild_cache
+	@echo ... MCD.obj
+	@echo ... MCD.i
+	@echo ... MCD.s
+	@echo ... MCD_euclides.obj
+	@echo ... MCD_euclides.i
+	@echo ... MCD_euclides.s
+	@echo ... contar_vocales.obj
+	@echo ... contar_vocales.i
+	@echo ... contar_vocales.s
+	@echo ... esta_doble.obj
+	@echo ... esta_doble.i
+	@echo ... esta_doble.s
 	@echo ... numero3_5_7.obj
 	@echo ... numero3_5_7.i
 	@echo ... numero3_5_7.s
+	@echo ... numero_armonico.obj
+	@echo ... numero_armonico.i
+	@echo ... numero_armonico.s
+	@echo ... numero_binario.obj
+	@echo ... numero_binario.i
+	@echo ... numero_binario.s
 	@echo ... numeros_primos.obj
 	@echo ... numeros_primos.i
 	@echo ... numeros_primos.s
@@ -293,6 +598,9 @@ help:
 	@echo ... piramide_asteriscos.obj
 	@echo ... piramide_asteriscos.i
 	@echo ... piramide_asteriscos.s
+	@echo ... sumadigitos.obj
+	@echo ... sumadigitos.i
+	@echo ... sumadigitos.s
 .PHONY : help
 
 
