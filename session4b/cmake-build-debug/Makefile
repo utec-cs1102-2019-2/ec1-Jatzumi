@@ -38,19 +38,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "C:\Users\User\CLion 2019.2\bin\cmake\win\bin\cmake.exe"
+CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2019.2.2\bin\cmake\win\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "C:\Users\User\CLion 2019.2\bin\cmake\win\bin\cmake.exe" -E remove -f
+RM = "C:\Program Files\JetBrains\CLion 2019.2.2\bin\cmake\win\bin\cmake.exe" -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\User\Desktop\poo1\pc1\ec1-Jatzumi\session4b
+CMAKE_SOURCE_DIR = C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\session4b
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\User\Desktop\poo1\pc1\ec1-Jatzumi\session4b\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\session4b\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -58,7 +58,7 @@ CMAKE_BINARY_DIR = C:\Users\User\Desktop\poo1\pc1\ec1-Jatzumi\session4b\cmake-bu
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	"C:\Users\User\CLion 2019.2\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
+	"C:\Program Files\JetBrains\CLion 2019.2.2\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -69,7 +69,7 @@ edit_cache/fast: edit_cache
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	"C:\Users\User\CLion 2019.2\bin\cmake\win\bin\cmake.exe" -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	"C:\Program Files\JetBrains\CLion 2019.2.2\bin\cmake\win\bin\cmake.exe" -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -79,9 +79,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\User\Desktop\poo1\pc1\ec1-Jatzumi\session4b\cmake-build-debug\CMakeFiles C:\Users\User\Desktop\poo1\pc1\ec1-Jatzumi\session4b\cmake-build-debug\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\session4b\cmake-build-debug\CMakeFiles C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\session4b\cmake-build-debug\CMakeFiles\progress.marks
 	$(MAKE) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\User\Desktop\poo1\pc1\ec1-Jatzumi\session4b\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\session4b\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -134,6 +134,19 @@ session4b: cmake_check_build_system
 session4b/fast:
 	$(MAKE) -f CMakeFiles\session4b.dir\build.make CMakeFiles/session4b.dir/build
 .PHONY : session4b/fast
+
+#=============================================================================
+# Target rules for targets named session4b3
+
+# Build rule for target.
+session4b3: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 session4b3
+.PHONY : session4b3
+
+# fast build rule for target.
+session4b3/fast:
+	$(MAKE) -f CMakeFiles\session4b3.dir\build.make CMakeFiles/session4b3.dir/build
+.PHONY : session4b3/fast
 
 ejercicio2.obj: ejercicio2.cpp.obj
 
@@ -189,6 +202,33 @@ ejercicio3.cpp.s:
 	$(MAKE) -f CMakeFiles\session4b2.dir\build.make CMakeFiles/session4b2.dir/ejercicio3.cpp.s
 .PHONY : ejercicio3.cpp.s
 
+ejercicio4.obj: ejercicio4.cpp.obj
+
+.PHONY : ejercicio4.obj
+
+# target to build an object file
+ejercicio4.cpp.obj:
+	$(MAKE) -f CMakeFiles\session4b3.dir\build.make CMakeFiles/session4b3.dir/ejercicio4.cpp.obj
+.PHONY : ejercicio4.cpp.obj
+
+ejercicio4.i: ejercicio4.cpp.i
+
+.PHONY : ejercicio4.i
+
+# target to preprocess a source file
+ejercicio4.cpp.i:
+	$(MAKE) -f CMakeFiles\session4b3.dir\build.make CMakeFiles/session4b3.dir/ejercicio4.cpp.i
+.PHONY : ejercicio4.cpp.i
+
+ejercicio4.s: ejercicio4.cpp.s
+
+.PHONY : ejercicio4.s
+
+# target to generate assembly for a file
+ejercicio4.cpp.s:
+	$(MAKE) -f CMakeFiles\session4b3.dir\build.make CMakeFiles/session4b3.dir/ejercicio4.cpp.s
+.PHONY : ejercicio4.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -197,6 +237,7 @@ help:
 	@echo ... depend
 	@echo ... session4b2
 	@echo ... session4b
+	@echo ... session4b3
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... ejercicio2.obj
@@ -205,6 +246,9 @@ help:
 	@echo ... ejercicio3.obj
 	@echo ... ejercicio3.i
 	@echo ... ejercicio3.s
+	@echo ... ejercicio4.obj
+	@echo ... ejercicio4.i
+	@echo ... ejercicio4.s
 .PHONY : help
 
 

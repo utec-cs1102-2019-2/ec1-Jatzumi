@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session4b/ejercicio3.cpp" "C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session4b/cmake-build-debug/CMakeFiles/session4b2.dir/ejercicio3.cpp.obj"
+  "C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session4b/ejercicio4.cpp" "C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session4b/cmake-build-debug/CMakeFiles/session4b3.dir/ejercicio4.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

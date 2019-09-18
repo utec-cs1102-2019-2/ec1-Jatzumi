@@ -3,6 +3,7 @@
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="session4b" targetName="session4b2" />
+      <config projectName="session4b" targetName="session4b3" />
       <config projectName="session4b" targetName="session4b" />
     </generated>
   </component>
@@ -50,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.session4b2">
+  <component name="RunManager" selected="CMake Application.session4b3">
     <configuration name="session4b" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="session4b" TARGET_NAME="session4b" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="session4b" RUN_TARGET_NAME="session4b">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -61,9 +62,15 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="session4b3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="session4b" TARGET_NAME="session4b3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="session4b" RUN_TARGET_NAME="session4b3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="CMake Application.session4b" />
       <item itemvalue="CMake Application.session4b2" />
+      <item itemvalue="CMake Application.session4b3" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -77,6 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1568303378805</updated>
       <workItem from="1568303381547" duration="5038000" />
+      <workItem from="1568773172950" duration="168000" />
     </task>
     <servers />
   </component>
@@ -88,7 +96,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
