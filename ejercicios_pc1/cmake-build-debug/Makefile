@@ -317,6 +317,19 @@ ejercicios_pc1o/fast:
 	$(MAKE) -f CMakeFiles\ejercicios_pc1o.dir\build.make CMakeFiles/ejercicios_pc1o.dir/build
 .PHONY : ejercicios_pc1o/fast
 
+#=============================================================================
+# Target rules for targets named ejercicios_pc1p
+
+# Build rule for target.
+ejercicios_pc1p: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 ejercicios_pc1p
+.PHONY : ejercicios_pc1p
+
+# fast build rule for target.
+ejercicios_pc1p/fast:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1p.dir\build.make CMakeFiles/ejercicios_pc1p.dir/build
+.PHONY : ejercicios_pc1p/fast
+
 MCD.obj: MCD.cpp.obj
 
 .PHONY : MCD.obj
@@ -668,6 +681,33 @@ potencia2.cpp.s:
 	$(MAKE) -f CMakeFiles\ejercicios_pc1o.dir\build.make CMakeFiles/ejercicios_pc1o.dir/potencia2.cpp.s
 .PHONY : potencia2.cpp.s
 
+retroceder_avanzar_hora.obj: retroceder_avanzar_hora.cpp.obj
+
+.PHONY : retroceder_avanzar_hora.obj
+
+# target to build an object file
+retroceder_avanzar_hora.cpp.obj:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1p.dir\build.make CMakeFiles/ejercicios_pc1p.dir/retroceder_avanzar_hora.cpp.obj
+.PHONY : retroceder_avanzar_hora.cpp.obj
+
+retroceder_avanzar_hora.i: retroceder_avanzar_hora.cpp.i
+
+.PHONY : retroceder_avanzar_hora.i
+
+# target to preprocess a source file
+retroceder_avanzar_hora.cpp.i:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1p.dir\build.make CMakeFiles/ejercicios_pc1p.dir/retroceder_avanzar_hora.cpp.i
+.PHONY : retroceder_avanzar_hora.cpp.i
+
+retroceder_avanzar_hora.s: retroceder_avanzar_hora.cpp.s
+
+.PHONY : retroceder_avanzar_hora.s
+
+# target to generate assembly for a file
+retroceder_avanzar_hora.cpp.s:
+	$(MAKE) -f CMakeFiles\ejercicios_pc1p.dir\build.make CMakeFiles/ejercicios_pc1p.dir/retroceder_avanzar_hora.cpp.s
+.PHONY : retroceder_avanzar_hora.cpp.s
+
 ruta.obj: ruta.cpp.obj
 
 .PHONY : ruta.obj
@@ -771,6 +811,7 @@ help:
 	@echo ... ejercicios_pc1m
 	@echo ... ejercicios_pc1n
 	@echo ... ejercicios_pc1o
+	@echo ... ejercicios_pc1p
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... MCD.obj
@@ -812,6 +853,9 @@ help:
 	@echo ... potencia2.obj
 	@echo ... potencia2.i
 	@echo ... potencia2.s
+	@echo ... retroceder_avanzar_hora.obj
+	@echo ... retroceder_avanzar_hora.i
+	@echo ... retroceder_avanzar_hora.s
 	@echo ... ruta.obj
 	@echo ... ruta.i
 	@echo ... ruta.s

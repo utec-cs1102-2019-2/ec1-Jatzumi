@@ -4,6 +4,7 @@
     <generated>
       <config projectName="ejercicios_pc1" targetName="ejercicios_pc1o" />
       <config projectName="ejercicios_pc1" targetName="ejercicios_pc1n" />
+      <config projectName="ejercicios_pc1" targetName="ejercicios_pc1p" />
       <config projectName="ejercicios_pc1" targetName="ejercicios_pc1k" />
       <config projectName="ejercicios_pc1" targetName="ejercicios_pc1j" />
       <config projectName="ejercicios_pc1" targetName="ejercicios_pc1m" />
@@ -65,7 +66,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.ejercicios_pc1o">
+  <component name="RunManager" selected="CMake Application.ejercicios_pc1p">
     <configuration name="ejercicios_pc1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ejercicios_pc1" TARGET_NAME="ejercicios_pc1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ejercicios_pc1" RUN_TARGET_NAME="ejercicios_pc1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -146,6 +147,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ejercicios_pc1p" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ejercicios_pc1" TARGET_NAME="ejercicios_pc1p" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ejercicios_pc1" RUN_TARGET_NAME="ejercicios_pc1p">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="CMake Application.ejercicios_pc1" />
       <item itemvalue="CMake Application.ejercicios_pc1a" />
@@ -163,6 +169,7 @@
       <item itemvalue="CMake Application.ejercicios_pc1m" />
       <item itemvalue="CMake Application.ejercicios_pc1n" />
       <item itemvalue="CMake Application.ejercicios_pc1o" />
+      <item itemvalue="CMake Application.ejercicios_pc1p" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -175,7 +182,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568774101316</updated>
-      <workItem from="1568774102532" duration="6896000" />
+      <workItem from="1568774102532" duration="7320000" />
     </task>
     <servers />
   </component>
