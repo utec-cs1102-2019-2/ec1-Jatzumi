@@ -2,23 +2,23 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
+      <config projectName="ejercicios_pc1" targetName="ejercicios_pc1p" />
       <config projectName="ejercicios_pc1" targetName="ejercicios_pc1o" />
       <config projectName="ejercicios_pc1" targetName="ejercicios_pc1n" />
-      <config projectName="ejercicios_pc1" targetName="ejercicios_pc1p" />
+      <config projectName="ejercicios_pc1" targetName="ejercicios_pc1" />
+      <config projectName="ejercicios_pc1" targetName="ejercicios_pc1l" />
       <config projectName="ejercicios_pc1" targetName="ejercicios_pc1k" />
       <config projectName="ejercicios_pc1" targetName="ejercicios_pc1j" />
-      <config projectName="ejercicios_pc1" targetName="ejercicios_pc1m" />
-      <config projectName="ejercicios_pc1" targetName="ejercicios_pc1l" />
+      <config projectName="ejercicios_pc1" targetName="ejercicios_pc1i" />
+      <config projectName="ejercicios_pc1" targetName="ejercicios_pc1h" />
       <config projectName="ejercicios_pc1" targetName="ejercicios_pc1g" />
       <config projectName="ejercicios_pc1" targetName="ejercicios_pc1f" />
-      <config projectName="ejercicios_pc1" targetName="ejercicios_pc1i" />
-      <config projectName="ejercicios_pc1" targetName="ejercicios_pc1" />
-      <config projectName="ejercicios_pc1" targetName="ejercicios_pc1h" />
-      <config projectName="ejercicios_pc1" targetName="ejercicios_pc1c" />
-      <config projectName="ejercicios_pc1" targetName="ejercicios_pc1b" />
       <config projectName="ejercicios_pc1" targetName="ejercicios_pc1e" />
       <config projectName="ejercicios_pc1" targetName="ejercicios_pc1d" />
+      <config projectName="ejercicios_pc1" targetName="ejercicios_pc1c" />
+      <config projectName="ejercicios_pc1" targetName="ejercicios_pc1b" />
       <config projectName="ejercicios_pc1" targetName="ejercicios_pc1a" />
+      <config projectName="ejercicios_pc1" targetName="ejercicios_pc1m" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -52,7 +52,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../session4b" />
+    <property name="last_opened_file_path" value="$USER_HOME$/untitled12" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -182,7 +182,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568774101316</updated>
-      <workItem from="1568774102532" duration="7320000" />
+      <workItem from="1568774102532" duration="7365000" />
+      <workItem from="1568831660924" duration="3399000" />
+      <workItem from="1568835110329" duration="1422000" />
     </task>
     <servers />
   </component>
@@ -194,7 +196,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -204,9 +208,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/piramide_asteriscos.cpp</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/retroceder_avanzar_hora.cpp</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

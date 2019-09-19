@@ -25,6 +25,6 @@ void espacios(int espacio){
 void asteriscos(int asterisco){
     if (asterisco==0)
         return;
-    cout<<"* ";
+    cout<<"*";
     asteriscos(asterisco-1);
 }

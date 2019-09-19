@@ -7,7 +7,7 @@ int maximo_divisor(int a, int b){
     else{
         if (b==0)
             return a;
-        return maximo_divisor(b, b%a);
+        return maximo_divisor(b, a%b);
     }
 }
 

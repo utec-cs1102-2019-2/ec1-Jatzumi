@@ -20,4 +20,3 @@ add_executable(ejercicios_pc1m segundos_a_hms.cpp)
 add_executable(ejercicios_pc1n ruta.cpp)
 add_executable(ejercicios_pc1o potencia2.cpp)
 add_executable(ejercicios_pc1p retroceder_avanzar_hora.cpp)
-

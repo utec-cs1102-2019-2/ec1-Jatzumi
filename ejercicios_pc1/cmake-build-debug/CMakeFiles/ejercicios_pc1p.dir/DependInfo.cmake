@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc1/cmake-build-debug/retroceder_avanzar_hora.cpp" "C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc1/cmake-build-debug/CMakeFiles/ejercicios_pc1p.dir/retroceder_avanzar_hora.cpp.obj"
+  "C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc1/retroceder_avanzar_hora.cpp" "C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc1/cmake-build-debug/CMakeFiles/ejercicios_pc1p.dir/retroceder_avanzar_hora.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 void texto_alreves(string &texto, const int medio, int inicio, int fin){
-    char letra=texto[fin-1];
+    char letra=texto [fin-1];
     if (fin==1 || inicio==medio){
         texto=texto;
     }

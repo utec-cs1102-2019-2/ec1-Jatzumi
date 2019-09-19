@@ -1,5 +1,4 @@
 #include <iostream>
-#include <math.h>
 using namespace std;
 int verificar_primos(int n, int &suma);
 int main(){

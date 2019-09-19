@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc1/cmake-build-debug/potencia2.cpp" "C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc1/cmake-build-debug/CMakeFiles/ejercicios_pc1o.dir/potencia2.cpp.obj"
+  "C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc1/potencia2.cpp" "C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc1/cmake-build-debug/CMakeFiles/ejercicios_pc1o.dir/potencia2.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

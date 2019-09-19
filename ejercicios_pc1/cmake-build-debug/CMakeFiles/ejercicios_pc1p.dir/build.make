@@ -57,17 +57,17 @@ include CMakeFiles/ejercicios_pc1p.dir/progress.make
 include CMakeFiles/ejercicios_pc1p.dir/flags.make
 
 CMakeFiles/ejercicios_pc1p.dir/retroceder_avanzar_hora.cpp.obj: CMakeFiles/ejercicios_pc1p.dir/flags.make
-CMakeFiles/ejercicios_pc1p.dir/retroceder_avanzar_hora.cpp.obj: retroceder_avanzar_hora.cpp
+CMakeFiles/ejercicios_pc1p.dir/retroceder_avanzar_hora.cpp.obj: ../retroceder_avanzar_hora.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\ejercicios_pc1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ejercicios_pc1p.dir/retroceder_avanzar_hora.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ejercicios_pc1p.dir\retroceder_avanzar_hora.cpp.obj -c C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\ejercicios_pc1\cmake-build-debug\retroceder_avanzar_hora.cpp
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ejercicios_pc1p.dir\retroceder_avanzar_hora.cpp.obj -c C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\ejercicios_pc1\retroceder_avanzar_hora.cpp
 
 CMakeFiles/ejercicios_pc1p.dir/retroceder_avanzar_hora.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ejercicios_pc1p.dir/retroceder_avanzar_hora.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\ejercicios_pc1\cmake-build-debug\retroceder_avanzar_hora.cpp > CMakeFiles\ejercicios_pc1p.dir\retroceder_avanzar_hora.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\ejercicios_pc1\retroceder_avanzar_hora.cpp > CMakeFiles\ejercicios_pc1p.dir\retroceder_avanzar_hora.cpp.i
 
 CMakeFiles/ejercicios_pc1p.dir/retroceder_avanzar_hora.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ejercicios_pc1p.dir/retroceder_avanzar_hora.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\ejercicios_pc1\cmake-build-debug\retroceder_avanzar_hora.cpp -o CMakeFiles\ejercicios_pc1p.dir\retroceder_avanzar_hora.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\ejercicios_pc1\retroceder_avanzar_hora.cpp -o CMakeFiles\ejercicios_pc1p.dir\retroceder_avanzar_hora.cpp.s
 
 # Object files for target ejercicios_pc1p
 ejercicios_pc1p_OBJECTS = \

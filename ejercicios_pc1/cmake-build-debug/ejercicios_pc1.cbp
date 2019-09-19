@@ -758,12 +758,6 @@
 		<Unit filename="C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc1/MCD_euclides.cpp">
 			<Option target="ejercicios_pc1d"/>
 		</Unit>
-		<Unit filename="C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc1/cmake-build-debug/potencia2.cpp">
-			<Option target="ejercicios_pc1o"/>
-		</Unit>
-		<Unit filename="C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc1/cmake-build-debug/retroceder_avanzar_hora.cpp">
-			<Option target="ejercicios_pc1p"/>
-		</Unit>
 		<Unit filename="C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc1/contar_vocales.cpp">
 			<Option target="ejercicios_pc1f"/>
 		</Unit>
@@ -793,6 +787,12 @@
 		</Unit>
 		<Unit filename="C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc1/piramide_asteriscos.cpp">
 			<Option target="ejercicios_pc1c"/>
+		</Unit>
+		<Unit filename="C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc1/potencia2.cpp">
+			<Option target="ejercicios_pc1o"/>
+		</Unit>
+		<Unit filename="C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc1/retroceder_avanzar_hora.cpp">
+			<Option target="ejercicios_pc1p"/>
 		</Unit>
 		<Unit filename="C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc1/ruta.cpp">
 			<Option target="ejercicios_pc1n"/>
