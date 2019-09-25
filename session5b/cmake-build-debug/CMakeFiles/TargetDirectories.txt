@@ -4,3 +4,6 @@ C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session5b/cmake-build-debu
 C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session5b/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session5b/cmake-build-debug/CMakeFiles/session5b_e3.dir
 C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session5b/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session5b/cmake-build-debug/CMakeFiles/session5b_e4.dir
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session5b/cmake-build-debug/CMakeFiles/session5b_e5.dir
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session5b/cmake-build-debug/CMakeFiles/session5b_e6.dir

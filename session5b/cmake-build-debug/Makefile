@@ -161,6 +161,45 @@ session5b_e3/fast:
 	$(MAKE) -f CMakeFiles\session5b_e3.dir\build.make CMakeFiles/session5b_e3.dir/build
 .PHONY : session5b_e3/fast
 
+#=============================================================================
+# Target rules for targets named session5b_e4
+
+# Build rule for target.
+session5b_e4: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 session5b_e4
+.PHONY : session5b_e4
+
+# fast build rule for target.
+session5b_e4/fast:
+	$(MAKE) -f CMakeFiles\session5b_e4.dir\build.make CMakeFiles/session5b_e4.dir/build
+.PHONY : session5b_e4/fast
+
+#=============================================================================
+# Target rules for targets named session5b_e5
+
+# Build rule for target.
+session5b_e5: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 session5b_e5
+.PHONY : session5b_e5
+
+# fast build rule for target.
+session5b_e5/fast:
+	$(MAKE) -f CMakeFiles\session5b_e5.dir\build.make CMakeFiles/session5b_e5.dir/build
+.PHONY : session5b_e5/fast
+
+#=============================================================================
+# Target rules for targets named session5b_e6
+
+# Build rule for target.
+session5b_e6: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 session5b_e6
+.PHONY : session5b_e6
+
+# fast build rule for target.
+session5b_e6/fast:
+	$(MAKE) -f CMakeFiles\session5b_e6.dir\build.make CMakeFiles/session5b_e6.dir/build
+.PHONY : session5b_e6/fast
+
 ejercicio1.obj: ejercicio1.cpp.obj
 
 .PHONY : ejercicio1.obj
@@ -242,6 +281,87 @@ ejercicio3.cpp.s:
 	$(MAKE) -f CMakeFiles\session5b_e3.dir\build.make CMakeFiles/session5b_e3.dir/ejercicio3.cpp.s
 .PHONY : ejercicio3.cpp.s
 
+ejercicio4.obj: ejercicio4.cpp.obj
+
+.PHONY : ejercicio4.obj
+
+# target to build an object file
+ejercicio4.cpp.obj:
+	$(MAKE) -f CMakeFiles\session5b_e4.dir\build.make CMakeFiles/session5b_e4.dir/ejercicio4.cpp.obj
+.PHONY : ejercicio4.cpp.obj
+
+ejercicio4.i: ejercicio4.cpp.i
+
+.PHONY : ejercicio4.i
+
+# target to preprocess a source file
+ejercicio4.cpp.i:
+	$(MAKE) -f CMakeFiles\session5b_e4.dir\build.make CMakeFiles/session5b_e4.dir/ejercicio4.cpp.i
+.PHONY : ejercicio4.cpp.i
+
+ejercicio4.s: ejercicio4.cpp.s
+
+.PHONY : ejercicio4.s
+
+# target to generate assembly for a file
+ejercicio4.cpp.s:
+	$(MAKE) -f CMakeFiles\session5b_e4.dir\build.make CMakeFiles/session5b_e4.dir/ejercicio4.cpp.s
+.PHONY : ejercicio4.cpp.s
+
+ejercicio5.obj: ejercicio5.cpp.obj
+
+.PHONY : ejercicio5.obj
+
+# target to build an object file
+ejercicio5.cpp.obj:
+	$(MAKE) -f CMakeFiles\session5b_e5.dir\build.make CMakeFiles/session5b_e5.dir/ejercicio5.cpp.obj
+.PHONY : ejercicio5.cpp.obj
+
+ejercicio5.i: ejercicio5.cpp.i
+
+.PHONY : ejercicio5.i
+
+# target to preprocess a source file
+ejercicio5.cpp.i:
+	$(MAKE) -f CMakeFiles\session5b_e5.dir\build.make CMakeFiles/session5b_e5.dir/ejercicio5.cpp.i
+.PHONY : ejercicio5.cpp.i
+
+ejercicio5.s: ejercicio5.cpp.s
+
+.PHONY : ejercicio5.s
+
+# target to generate assembly for a file
+ejercicio5.cpp.s:
+	$(MAKE) -f CMakeFiles\session5b_e5.dir\build.make CMakeFiles/session5b_e5.dir/ejercicio5.cpp.s
+.PHONY : ejercicio5.cpp.s
+
+ejercicio6.obj: ejercicio6.cpp.obj
+
+.PHONY : ejercicio6.obj
+
+# target to build an object file
+ejercicio6.cpp.obj:
+	$(MAKE) -f CMakeFiles\session5b_e6.dir\build.make CMakeFiles/session5b_e6.dir/ejercicio6.cpp.obj
+.PHONY : ejercicio6.cpp.obj
+
+ejercicio6.i: ejercicio6.cpp.i
+
+.PHONY : ejercicio6.i
+
+# target to preprocess a source file
+ejercicio6.cpp.i:
+	$(MAKE) -f CMakeFiles\session5b_e6.dir\build.make CMakeFiles/session5b_e6.dir/ejercicio6.cpp.i
+.PHONY : ejercicio6.cpp.i
+
+ejercicio6.s: ejercicio6.cpp.s
+
+.PHONY : ejercicio6.s
+
+# target to generate assembly for a file
+ejercicio6.cpp.s:
+	$(MAKE) -f CMakeFiles\session5b_e6.dir\build.make CMakeFiles/session5b_e6.dir/ejercicio6.cpp.s
+.PHONY : ejercicio6.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -281,6 +401,9 @@ help:
 	@echo ... rebuild_cache
 	@echo ... session5b_e3
 	@echo ... edit_cache
+	@echo ... session5b_e4
+	@echo ... session5b_e5
+	@echo ... session5b_e6
 	@echo ... ejercicio1.obj
 	@echo ... ejercicio1.i
 	@echo ... ejercicio1.s
@@ -290,6 +413,15 @@ help:
 	@echo ... ejercicio3.obj
 	@echo ... ejercicio3.i
 	@echo ... ejercicio3.s
+	@echo ... ejercicio4.obj
+	@echo ... ejercicio4.i
+	@echo ... ejercicio4.s
+	@echo ... ejercicio5.obj
+	@echo ... ejercicio5.i
+	@echo ... ejercicio5.s
+	@echo ... ejercicio6.obj
+	@echo ... ejercicio6.i
+	@echo ... ejercicio6.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

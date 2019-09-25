@@ -4,6 +4,9 @@
     <generated>
       <config projectName="ejercicios_pc1" targetName="session5b_e1" />
       <config projectName="ejercicios_pc1" targetName="session5b" />
+      <config projectName="ejercicios_pc1" targetName="session5b_e6" />
+      <config projectName="ejercicios_pc1" targetName="session5b_e5" />
+      <config projectName="ejercicios_pc1" targetName="session5b_e4" />
       <config projectName="ejercicios_pc1" targetName="session5b_e3" />
       <config projectName="ejercicios_pc1" targetName="session5b_e2" />
     </generated>
@@ -53,7 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.session5b_e3">
+  <component name="RunManager" selected="CMake Application.session5b_e6">
     <configuration name="session5b" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ejercicios_pc1" TARGET_NAME="session5b" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ejercicios_pc1" RUN_TARGET_NAME="session5b">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -74,11 +77,29 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="session5b_e4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ejercicios_pc1" TARGET_NAME="session5b_e4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ejercicios_pc1" RUN_TARGET_NAME="session5b_e4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="session5b_e5" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ejercicios_pc1" TARGET_NAME="session5b_e5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ejercicios_pc1" RUN_TARGET_NAME="session5b_e5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="session5b_e6" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ejercicios_pc1" TARGET_NAME="session5b_e6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ejercicios_pc1" RUN_TARGET_NAME="session5b_e6">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="CMake Application.session5b" />
       <item itemvalue="CMake Application.session5b_e1" />
       <item itemvalue="CMake Application.session5b_e2" />
       <item itemvalue="CMake Application.session5b_e3" />
+      <item itemvalue="CMake Application.session5b_e4" />
+      <item itemvalue="CMake Application.session5b_e5" />
+      <item itemvalue="CMake Application.session5b_e6" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -91,7 +112,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568903368124</updated>
-      <workItem from="1568903369636" duration="3506000" />
+      <workItem from="1568903369636" duration="4120000" />
+      <workItem from="1569384762112" duration="5859000" />
     </task>
     <servers />
   </component>
@@ -103,7 +125,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
