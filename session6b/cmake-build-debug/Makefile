@@ -135,6 +135,19 @@ session6b_e2/fast:
 	$(MAKE) -f CMakeFiles\session6b_e2.dir\build.make CMakeFiles/session6b_e2.dir/build
 .PHONY : session6b_e2/fast
 
+#=============================================================================
+# Target rules for targets named session6b_e3
+
+# Build rule for target.
+session6b_e3: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 session6b_e3
+.PHONY : session6b_e3
+
+# fast build rule for target.
+session6b_e3/fast:
+	$(MAKE) -f CMakeFiles\session6b_e3.dir\build.make CMakeFiles/session6b_e3.dir/build
+.PHONY : session6b_e3/fast
+
 ejercicio1.obj: ejercicio1.cpp.obj
 
 .PHONY : ejercicio1.obj
@@ -189,6 +202,33 @@ ejercicio2.cpp.s:
 	$(MAKE) -f CMakeFiles\session6b_e2.dir\build.make CMakeFiles/session6b_e2.dir/ejercicio2.cpp.s
 .PHONY : ejercicio2.cpp.s
 
+ejercicio3.obj: ejercicio3.cpp.obj
+
+.PHONY : ejercicio3.obj
+
+# target to build an object file
+ejercicio3.cpp.obj:
+	$(MAKE) -f CMakeFiles\session6b_e3.dir\build.make CMakeFiles/session6b_e3.dir/ejercicio3.cpp.obj
+.PHONY : ejercicio3.cpp.obj
+
+ejercicio3.i: ejercicio3.cpp.i
+
+.PHONY : ejercicio3.i
+
+# target to preprocess a source file
+ejercicio3.cpp.i:
+	$(MAKE) -f CMakeFiles\session6b_e3.dir\build.make CMakeFiles/session6b_e3.dir/ejercicio3.cpp.i
+.PHONY : ejercicio3.cpp.i
+
+ejercicio3.s: ejercicio3.cpp.s
+
+.PHONY : ejercicio3.s
+
+# target to generate assembly for a file
+ejercicio3.cpp.s:
+	$(MAKE) -f CMakeFiles\session6b_e3.dir\build.make CMakeFiles/session6b_e3.dir/ejercicio3.cpp.s
+.PHONY : ejercicio3.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -198,6 +238,7 @@ help:
 	@echo ... session6b_e1
 	@echo ... session6b_e2
 	@echo ... edit_cache
+	@echo ... session6b_e3
 	@echo ... rebuild_cache
 	@echo ... ejercicio1.obj
 	@echo ... ejercicio1.i
@@ -205,6 +246,9 @@ help:
 	@echo ... ejercicio2.obj
 	@echo ... ejercicio2.i
 	@echo ... ejercicio2.s
+	@echo ... ejercicio3.obj
+	@echo ... ejercicio3.i
+	@echo ... ejercicio3.s
 .PHONY : help
 
 

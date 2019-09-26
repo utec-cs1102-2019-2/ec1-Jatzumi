@@ -138,6 +138,43 @@ clean: CMakeFiles/session6b_e2.dir/clean
 .PHONY : clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/session6b_e3.dir
+
+# All Build rule for target.
+CMakeFiles/session6b_e3.dir/all:
+	$(MAKE) -f CMakeFiles\session6b_e3.dir\build.make CMakeFiles/session6b_e3.dir/depend
+	$(MAKE) -f CMakeFiles\session6b_e3.dir\build.make CMakeFiles/session6b_e3.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\session6b\cmake-build-debug\CMakeFiles --progress-num=5,6 "Built target session6b_e3"
+.PHONY : CMakeFiles/session6b_e3.dir/all
+
+# Include target in all.
+all: CMakeFiles/session6b_e3.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/session6b_e3.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\session6b\cmake-build-debug\CMakeFiles 2
+	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/session6b_e3.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\session6b\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/session6b_e3.dir/rule
+
+# Convenience name for target.
+session6b_e3: CMakeFiles/session6b_e3.dir/rule
+
+.PHONY : session6b_e3
+
+# clean rule for target.
+CMakeFiles/session6b_e3.dir/clean:
+	$(MAKE) -f CMakeFiles\session6b_e3.dir\build.make CMakeFiles/session6b_e3.dir/clean
+.PHONY : CMakeFiles/session6b_e3.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/session6b_e3.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Special targets to cleanup operation of make.
 
 # Special rule to run CMake to check the build system integrity.
