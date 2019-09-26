@@ -3,12 +3,12 @@
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="ejercicios_pc1" targetName="session5b_e1" />
-      <config projectName="ejercicios_pc1" targetName="session5b" />
       <config projectName="ejercicios_pc1" targetName="session5b_e6" />
       <config projectName="ejercicios_pc1" targetName="session5b_e5" />
       <config projectName="ejercicios_pc1" targetName="session5b_e4" />
       <config projectName="ejercicios_pc1" targetName="session5b_e3" />
       <config projectName="ejercicios_pc1" targetName="session5b_e2" />
+      <config projectName="ejercicios_pc1" targetName="session5b" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -42,7 +42,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../session6a" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -114,6 +114,7 @@
       <updated>1568903368124</updated>
       <workItem from="1568903369636" duration="4120000" />
       <workItem from="1569384762112" duration="5859000" />
+      <workItem from="1569439940972" duration="5407000" />
     </task>
     <servers />
   </component>
@@ -140,6 +141,11 @@
           <url>file://$PROJECT_DIR$/main.cpp</url>
           <line>2</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ejercicio6.cpp</url>
+          <line>39</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
