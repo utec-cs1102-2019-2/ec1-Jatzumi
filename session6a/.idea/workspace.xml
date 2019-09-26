@@ -3,9 +3,9 @@
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="ejercicios_pc1" targetName="session6a_e4" />
-      <config projectName="ejercicios_pc1" targetName="session6a_e1" />
-      <config projectName="ejercicios_pc1" targetName="session6a_e2" />
       <config projectName="ejercicios_pc1" targetName="session6a_e3" />
+      <config projectName="ejercicios_pc1" targetName="session6a_e2" />
+      <config projectName="ejercicios_pc1" targetName="session6a_e1" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -39,7 +39,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../session6b" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -53,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.session6a_e3">
+  <component name="RunManager" selected="CMake Application.session6a_e4">
     <configuration name="session6a_e1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ejercicios_pc1" TARGET_NAME="session6a_e1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ejercicios_pc1" RUN_TARGET_NAME="session6a_e1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -91,7 +91,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569444335157</updated>
-      <workItem from="1569444336548" duration="6944000" />
+      <workItem from="1569444336548" duration="11230000" />
+      <workItem from="1569507195801" duration="2471000" />
     </task>
     <servers />
   </component>
@@ -103,7 +104,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -116,6 +119,11 @@
           <url>file://$PROJECT_DIR$/ejercicio3.cpp</url>
           <line>50</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ejercicio4.cpp</url>
+          <line>30</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
