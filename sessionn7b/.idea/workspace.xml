@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="session7a" targetName="session7a_e1" />
+      <config projectName="session7b" targetName="session7b_e1" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7d6e2c0-b86a-4d79-bb66-56dd3aa3ece4" name="Default Changelist" comment="" />
+    <list default="true" id="4c7a9098-af80-4a11-8ece-ad41b8d289b6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,11 +32,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1RfA7biFiowwnUfSR7kHYhV7rSz" />
+  <component name="ProjectId" id="1RhH82zQSQgrrEagNCcwJUkoFjJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sessionn7b" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -51,7 +51,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="session7a_e1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="session7a" TARGET_NAME="session7a_e1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="session7a" RUN_TARGET_NAME="session7a_e1">
+    <configuration name="session7b_e1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="session7b" TARGET_NAME="session7b_e1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="session7b" RUN_TARGET_NAME="session7b_e1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -62,13 +62,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e7d6e2c0-b86a-4d79-bb66-56dd3aa3ece4" name="Default Changelist" comment="" />
-      <created>1570047609828</created>
+      <changelist id="4c7a9098-af80-4a11-8ece-ad41b8d289b6" name="Default Changelist" comment="" />
+      <created>1570112245000</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1570047609828</updated>
-      <workItem from="1570047613750" duration="9771000" />
-      <workItem from="1570112194500" duration="1137000" />
+      <updated>1570112245000</updated>
+      <workItem from="1570112246246" duration="1088000" />
     </task>
     <servers />
   </component>
@@ -80,9 +79,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
