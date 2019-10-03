@@ -2,9 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="session6b" targetName="session6b_e3" />
-      <config projectName="session6b" targetName="session6b_e2" />
-      <config projectName="session6b" targetName="session6b_e1" />
+      <config projectName="session7a" targetName="session7a_e1" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -13,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c182673-1944-4e3c-99e1-67f1a4289ad3" name="Default Changelist" comment="" />
+    <list default="true" id="e7d6e2c0-b86a-4d79-bb66-56dd3aa3ece4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,11 +32,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1RNUo8WHgcsvJJ5xcaGpj3hJy2Y" />
+  <component name="ProjectId" id="1RfA7biFiowwnUfSR7kHYhV7rSz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../session7a" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -52,41 +50,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.session6b_e3">
-    <configuration name="session6b_e1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="session6b" TARGET_NAME="session6b_e1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="session6b" RUN_TARGET_NAME="session6b_e1">
+  <component name="RunManager">
+    <configuration name="session7a_e1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="session7a" TARGET_NAME="session7a_e1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="session7a" RUN_TARGET_NAME="session7a_e1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="session6b_e2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="session6b" TARGET_NAME="session6b_e2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="session6b" RUN_TARGET_NAME="session6b_e2">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="session6b_e3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="session6b" TARGET_NAME="session6b_e3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="session6b" RUN_TARGET_NAME="session6b_e3">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="CMake Application.session6b_e1" />
-      <item itemvalue="CMake Application.session6b_e2" />
-      <item itemvalue="CMake Application.session6b_e3" />
-    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5c182673-1944-4e3c-99e1-67f1a4289ad3" name="Default Changelist" comment="" />
-      <created>1569507218373</created>
+      <changelist id="e7d6e2c0-b86a-4d79-bb66-56dd3aa3ece4" name="Default Changelist" comment="" />
+      <created>1570047609828</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569507218373</updated>
-      <workItem from="1569507219703" duration="5930000" />
-      <workItem from="1569621827278" duration="65000" />
-      <workItem from="1570047540590" duration="2777000" />
+      <updated>1570047609828</updated>
+      <workItem from="1570047613750" duration="9771000" />
     </task>
     <servers />
   </component>
@@ -98,9 +79,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
