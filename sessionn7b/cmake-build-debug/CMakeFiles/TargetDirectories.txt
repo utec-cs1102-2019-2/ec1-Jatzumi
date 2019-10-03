@@ -1,3 +1,5 @@
 C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/sessionn7b/cmake-build-debug/CMakeFiles/session7b_e1.dir
 C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/sessionn7b/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/sessionn7b/cmake-build-debug/CMakeFiles/session7b_e2.dir
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/sessionn7b/cmake-build-debug/CMakeFiles/session7b_e3.dir
 C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/sessionn7b/cmake-build-debug/CMakeFiles/rebuild_cache.dir
