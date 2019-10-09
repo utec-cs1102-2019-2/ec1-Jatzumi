@@ -52,7 +52,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/untitled12" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -66,7 +66,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.ejercicios_pc1p">
+  <component name="RunManager" selected="CMake Application.ejercicios_pc1n">
     <configuration name="ejercicios_pc1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ejercicios_pc1" TARGET_NAME="ejercicios_pc1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ejercicios_pc1" RUN_TARGET_NAME="ejercicios_pc1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -186,6 +186,8 @@
       <workItem from="1568831660924" duration="3399000" />
       <workItem from="1568835110329" duration="1422000" />
       <workItem from="1569090185940" duration="436000" />
+      <workItem from="1570243348502" duration="1705000" />
+      <workItem from="1570595337789" duration="2234000" />
     </task>
     <servers />
   </component>

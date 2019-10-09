@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc2/ejercicio16.cpp
+iostream
+-
+ctime
+-
+

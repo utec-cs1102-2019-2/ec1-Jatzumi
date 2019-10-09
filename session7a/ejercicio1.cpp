@@ -16,7 +16,7 @@ int main() {
     type_n **matrix_2 = new type_n*[filas];
     nuevo(filas, columnas, matrix_1);
     nuevo(filas, columnas, matrix_2);
-    imprimir(filas, columnas, matrix_1);
+    imprimir(filas, columnas, matrix_1); 
     imprimir(filas, columnas, matrix_2);
     type_n **matrix_multiply = multiplicar(filas, columnas, matrix_1, matrix_2);
     imprimir(filas, columnas, matrix_multiply);

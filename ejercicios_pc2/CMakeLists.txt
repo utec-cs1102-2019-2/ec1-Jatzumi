@@ -1,0 +1,18 @@
+cmake_minimum_required(VERSION 3.14)
+project(ejercicios_pc2)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(ejercicios_pc2_e1 ejercicio22.cpp)
+add_executable(ejercicios_pc2_e2 ejercicio24.cpp)
+add_executable(ejercicios_pc2_e3 ejercicio21.cpp)
+add_executable(ejercicios_pc2_e4 ejercicio18.cpp)
+add_executable(ejercicios_pc2_e5 ejercicio17.cpp)
+add_executable(ejercicios_pc2_e6 ejercicio16.cpp)
+add_executable(ejercicios_pc2_e7 ejercicio12.cpp)
+add_executable(ejercicios_pc2_e8 ejercicio11.cpp)
+add_executable(ejercicios_pc2_e9 ejercicio10.cpp)
+add_executable(ejercicios_pc2_e10 ejercicio6.cpp)
+add_executable(ejercicios_pc2_e11 ejer6.cpp)
+add_executable(ejercicios_pc2_e12 ejercicio4.cpp)
+add_executable(ejercicios_pc2_e13 ejercicio1.cpp)

@@ -2,7 +2,6 @@
 using namespace std;
 int main() {
     int puntos;
-    char a;
     do{
         cin>>puntos;
     }while(puntos<2);

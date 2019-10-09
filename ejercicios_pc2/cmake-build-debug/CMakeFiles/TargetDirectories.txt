@@ -1,0 +1,14 @@
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc2/cmake-build-debug/CMakeFiles/ejercicios_pc2_e9.dir
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc2/cmake-build-debug/CMakeFiles/ejercicios_pc2_e1.dir
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc2/cmake-build-debug/CMakeFiles/ejercicios_pc2_e2.dir
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc2/cmake-build-debug/CMakeFiles/ejercicios_pc2_e3.dir
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc2/cmake-build-debug/CMakeFiles/ejercicios_pc2_e4.dir
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc2/cmake-build-debug/CMakeFiles/ejercicios_pc2_e5.dir
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc2/cmake-build-debug/CMakeFiles/ejercicios_pc2_e6.dir
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc2/cmake-build-debug/CMakeFiles/ejercicios_pc2_e7.dir
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc2/cmake-build-debug/CMakeFiles/ejercicios_pc2_e8.dir
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc2/cmake-build-debug/CMakeFiles/ejercicios_pc2_e10.dir
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc2/cmake-build-debug/CMakeFiles/ejercicios_pc2_e11.dir
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc2/cmake-build-debug/CMakeFiles/ejercicios_pc2_e12.dir
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/ejercicios_pc2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e5" />
+      <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e4" />
+      <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e3" />
+      <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e2" />
+      <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e9" />
+      <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e8" />
+      <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e7" />
+      <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e6" />
+      <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e10" />
+      <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e11" />
+      <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e12" />
+      <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9e28d59-5d1e-4b86-a594-631f1b3664c0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Rk9PvRwFJlHUkdkY3PTfdQRx4Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ejercicios_pc1" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.ejercicios_pc2_e12">
+    <configuration name="ejercicios_pc2_e1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ejercicios_pc2" TARGET_NAME="ejercicios_pc2_e1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ejercicios_pc2" RUN_TARGET_NAME="ejercicios_pc2_e1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejercicios_pc2_e10" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ejercicios_pc2" TARGET_NAME="ejercicios_pc2_e10" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ejercicios_pc2" RUN_TARGET_NAME="ejercicios_pc2_e10">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejercicios_pc2_e11" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ejercicios_pc2" TARGET_NAME="ejercicios_pc2_e11" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ejercicios_pc2" RUN_TARGET_NAME="ejercicios_pc2_e11">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejercicios_pc2_e12" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ejercicios_pc2" TARGET_NAME="ejercicios_pc2_e12" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ejercicios_pc2" RUN_TARGET_NAME="ejercicios_pc2_e12">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejercicios_pc2_e2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ejercicios_pc2" TARGET_NAME="ejercicios_pc2_e2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ejercicios_pc2" RUN_TARGET_NAME="ejercicios_pc2_e2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejercicios_pc2_e3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ejercicios_pc2" TARGET_NAME="ejercicios_pc2_e3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ejercicios_pc2" RUN_TARGET_NAME="ejercicios_pc2_e3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejercicios_pc2_e4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ejercicios_pc2" TARGET_NAME="ejercicios_pc2_e4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ejercicios_pc2" RUN_TARGET_NAME="ejercicios_pc2_e4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejercicios_pc2_e5" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ejercicios_pc2" TARGET_NAME="ejercicios_pc2_e5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ejercicios_pc2" RUN_TARGET_NAME="ejercicios_pc2_e5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejercicios_pc2_e6" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ejercicios_pc2" TARGET_NAME="ejercicios_pc2_e6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ejercicios_pc2" RUN_TARGET_NAME="ejercicios_pc2_e6">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejercicios_pc2_e7" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ejercicios_pc2" TARGET_NAME="ejercicios_pc2_e7" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ejercicios_pc2" RUN_TARGET_NAME="ejercicios_pc2_e7">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejercicios_pc2_e8" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ejercicios_pc2" TARGET_NAME="ejercicios_pc2_e8" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ejercicios_pc2" RUN_TARGET_NAME="ejercicios_pc2_e8">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejercicios_pc2_e9" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ejercicios_pc2" TARGET_NAME="ejercicios_pc2_e9" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ejercicios_pc2" RUN_TARGET_NAME="ejercicios_pc2_e9">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.ejercicios_pc2_e1" />
+      <item itemvalue="CMake Application.ejercicios_pc2_e10" />
+      <item itemvalue="CMake Application.ejercicios_pc2_e11" />
+      <item itemvalue="CMake Application.ejercicios_pc2_e12" />
+      <item itemvalue="CMake Application.ejercicios_pc2_e2" />
+      <item itemvalue="CMake Application.ejercicios_pc2_e3" />
+      <item itemvalue="CMake Application.ejercicios_pc2_e4" />
+      <item itemvalue="CMake Application.ejercicios_pc2_e5" />
+      <item itemvalue="CMake Application.ejercicios_pc2_e6" />
+      <item itemvalue="CMake Application.ejercicios_pc2_e7" />
+      <item itemvalue="CMake Application.ejercicios_pc2_e8" />
+      <item itemvalue="CMake Application.ejercicios_pc2_e9" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9e28d59-5d1e-4b86-a594-631f1b3664c0" name="Default Changelist" comment="" />
+      <created>1570200205148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570200205148</updated>
+      <workItem from="1570200206545" duration="1537000" />
+      <workItem from="1570243332951" duration="628000" />
+      <workItem from="1570428213572" duration="1992000" />
+      <workItem from="1570546102378" duration="32261000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ejercicio16.cpp</url>
+          <line>32</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ejercicio11.cpp</url>
+          <line>37</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
