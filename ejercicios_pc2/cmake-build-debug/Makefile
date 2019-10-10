@@ -265,6 +265,32 @@ ejercicios_pc2_e12/fast:
 	$(MAKE) -f CMakeFiles\ejercicios_pc2_e12.dir\build.make CMakeFiles/ejercicios_pc2_e12.dir/build
 .PHONY : ejercicios_pc2_e12/fast
 
+#=============================================================================
+# Target rules for targets named ejercicios_pc2_e13
+
+# Build rule for target.
+ejercicios_pc2_e13: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 ejercicios_pc2_e13
+.PHONY : ejercicios_pc2_e13
+
+# fast build rule for target.
+ejercicios_pc2_e13/fast:
+	$(MAKE) -f CMakeFiles\ejercicios_pc2_e13.dir\build.make CMakeFiles/ejercicios_pc2_e13.dir/build
+.PHONY : ejercicios_pc2_e13/fast
+
+#=============================================================================
+# Target rules for targets named ejercicios_pc2_e14
+
+# Build rule for target.
+ejercicios_pc2_e14: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 ejercicios_pc2_e14
+.PHONY : ejercicios_pc2_e14
+
+# fast build rule for target.
+ejercicios_pc2_e14/fast:
+	$(MAKE) -f CMakeFiles\ejercicios_pc2_e14.dir\build.make CMakeFiles/ejercicios_pc2_e14.dir/build
+.PHONY : ejercicios_pc2_e14/fast
+
 ejer6.obj: ejer6.cpp.obj
 
 .PHONY : ejer6.obj
@@ -291,6 +317,33 @@ ejer6.s: ejer6.cpp.s
 ejer6.cpp.s:
 	$(MAKE) -f CMakeFiles\ejercicios_pc2_e11.dir\build.make CMakeFiles/ejercicios_pc2_e11.dir/ejer6.cpp.s
 .PHONY : ejer6.cpp.s
+
+ejercicio1.obj: ejercicio1.cpp.obj
+
+.PHONY : ejercicio1.obj
+
+# target to build an object file
+ejercicio1.cpp.obj:
+	$(MAKE) -f CMakeFiles\ejercicios_pc2_e13.dir\build.make CMakeFiles/ejercicios_pc2_e13.dir/ejercicio1.cpp.obj
+.PHONY : ejercicio1.cpp.obj
+
+ejercicio1.i: ejercicio1.cpp.i
+
+.PHONY : ejercicio1.i
+
+# target to preprocess a source file
+ejercicio1.cpp.i:
+	$(MAKE) -f CMakeFiles\ejercicios_pc2_e13.dir\build.make CMakeFiles/ejercicios_pc2_e13.dir/ejercicio1.cpp.i
+.PHONY : ejercicio1.cpp.i
+
+ejercicio1.s: ejercicio1.cpp.s
+
+.PHONY : ejercicio1.s
+
+# target to generate assembly for a file
+ejercicio1.cpp.s:
+	$(MAKE) -f CMakeFiles\ejercicios_pc2_e13.dir\build.make CMakeFiles/ejercicios_pc2_e13.dir/ejercicio1.cpp.s
+.PHONY : ejercicio1.cpp.s
 
 ejercicio10.obj: ejercicio10.cpp.obj
 
@@ -562,6 +615,33 @@ ejercicio4.cpp.s:
 	$(MAKE) -f CMakeFiles\ejercicios_pc2_e12.dir\build.make CMakeFiles/ejercicios_pc2_e12.dir/ejercicio4.cpp.s
 .PHONY : ejercicio4.cpp.s
 
+ejercicio5.obj: ejercicio5.cpp.obj
+
+.PHONY : ejercicio5.obj
+
+# target to build an object file
+ejercicio5.cpp.obj:
+	$(MAKE) -f CMakeFiles\ejercicios_pc2_e14.dir\build.make CMakeFiles/ejercicios_pc2_e14.dir/ejercicio5.cpp.obj
+.PHONY : ejercicio5.cpp.obj
+
+ejercicio5.i: ejercicio5.cpp.i
+
+.PHONY : ejercicio5.i
+
+# target to preprocess a source file
+ejercicio5.cpp.i:
+	$(MAKE) -f CMakeFiles\ejercicios_pc2_e14.dir\build.make CMakeFiles/ejercicios_pc2_e14.dir/ejercicio5.cpp.i
+.PHONY : ejercicio5.cpp.i
+
+ejercicio5.s: ejercicio5.cpp.s
+
+.PHONY : ejercicio5.s
+
+# target to generate assembly for a file
+ejercicio5.cpp.s:
+	$(MAKE) -f CMakeFiles\ejercicios_pc2_e14.dir\build.make CMakeFiles/ejercicios_pc2_e14.dir/ejercicio5.cpp.s
+.PHONY : ejercicio5.cpp.s
+
 ejercicio6.obj: ejercicio6.cpp.obj
 
 .PHONY : ejercicio6.obj
@@ -607,11 +687,16 @@ help:
 	@echo ... ejercicios_pc2_e10
 	@echo ... ejercicios_pc2_e11
 	@echo ... ejercicios_pc2_e12
+	@echo ... ejercicios_pc2_e13
+	@echo ... ejercicios_pc2_e14
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... ejer6.obj
 	@echo ... ejer6.i
 	@echo ... ejer6.s
+	@echo ... ejercicio1.obj
+	@echo ... ejercicio1.i
+	@echo ... ejercicio1.s
 	@echo ... ejercicio10.obj
 	@echo ... ejercicio10.i
 	@echo ... ejercicio10.s
@@ -642,6 +727,9 @@ help:
 	@echo ... ejercicio4.obj
 	@echo ... ejercicio4.i
 	@echo ... ejercicio4.s
+	@echo ... ejercicio5.obj
+	@echo ... ejercicio5.i
+	@echo ... ejercicio5.s
 	@echo ... ejercicio6.obj
 	@echo ... ejercicio6.i
 	@echo ... ejercicio6.s

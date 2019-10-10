@@ -8,9 +8,9 @@ void limpiar(vector<int> &vector1);
 vector<int> nuevo(int n);
 int main(){
     srand( time (nullptr));
-    type_n n;
-    cout<<"Ingrese numero de elementos:";
-    cin>>n;
+    type_n filas,columnas;
+    cout<<"Ingrese numero de filas:";
+    cin>>filas;
     vector <type_n > vector1=nuevo(n);
     type_n v=0;
     imprimir(vector1);

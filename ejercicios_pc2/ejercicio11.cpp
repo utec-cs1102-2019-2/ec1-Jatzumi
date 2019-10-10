@@ -2,7 +2,7 @@
 using namespace std;
 void nuevo(int n,int*array){
     for (int i=0;i<n;i++){
-        cin>>array[i];
+        array[i]=rand()%10;
     }
 }
 void imprimir(int n, int*array){
@@ -20,31 +20,33 @@ int* resta(int n,int * array1,int * array2,int &m){
         }
     }
     m=n-a1;
-    int *resta=new int[n-a1];
+    int *resta=new int[m];
     int a2=0;
     for(int i=0;i<n;i++){
         int a3=0;
-         for (int (j) = 0; (j) < n; ++(j)) {
+        for (int (j) = 0; (j) < n; ++(j)) {
              if(array1[i]-array2[j]==0){
                  a3++;
              }
          }
          if (a3==0){
              resta[a2]=array1[i];
+             a2++;
          }
-         a2++;
      }
     return resta;
 }
 int main(){
-    int *array1=new int[3];
-    int *array2=new int[3];
-    nuevo(3,array1);
-    nuevo(3,array2);
-    imprimir(3,array1);
-    imprimir(3,array2);
+    int n=0;
+    cin>>n;
+    int *array1=new int[n];
+    int *array2=new int[n];
+    nuevo(n,array1);
+    nuevo(n,array2);
+    imprimir(n,array1);
+    imprimir(n,array2);
     int m=0;
-    int *rest=resta(3,array1,array2,m);
+    int *rest=resta(n,array1,array2,m);
     imprimir(m,rest);
     delete[] array1;
     array1=nullptr;

@@ -24,6 +24,7 @@ int * llenarTanques ( int * digitos , int n , int & m ){
     return tanques;
 }
 void mostrarTanques ( int * tanques , int m ){
+    cout<<m<<endl;
     for(int i=0;i<m;i++){
         cout<<tanques[i]<<endl;
     }
@@ -35,7 +36,6 @@ int main () {
     int n = 0 , m = 0;
     int * digitos = descomponerDigitos ( numero , n );
     int * tanques = llenarTanques ( digitos , n , m ) ;
-    cout<<m<<endl;
     mostrarTanques ( tanques , m ) ;
     return 0;
 }

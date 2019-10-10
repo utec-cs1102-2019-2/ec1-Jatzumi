@@ -12,7 +12,6 @@ int main(){
     nuevo(n, n, matrix);
     imprimir(n,n,matrix);
     es_triangulo_superior(n, n, matrix);
-
 }
 void nuevo(int filas,int columnas,int **matrix){
     for (int i=0;i<filas;i++){

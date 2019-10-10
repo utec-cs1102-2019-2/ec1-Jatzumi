@@ -65,4 +65,6 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/ejercicios_pc2_e10.dir/DependInfo.cmake"
   "CMakeFiles/ejercicios_pc2_e11.dir/DependInfo.cmake"
   "CMakeFiles/ejercicios_pc2_e12.dir/DependInfo.cmake"
+  "CMakeFiles/ejercicios_pc2_e13.dir/DependInfo.cmake"
+  "CMakeFiles/ejercicios_pc2_e14.dir/DependInfo.cmake"
   )
