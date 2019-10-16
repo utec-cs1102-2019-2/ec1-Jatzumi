@@ -2,20 +2,20 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
+      <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e7" />
+      <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e6" />
       <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e5" />
       <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e4" />
       <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e3" />
       <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e2" />
-      <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e9" />
-      <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e13" />
-      <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e8" />
-      <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e14" />
-      <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e7" />
-      <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e6" />
-      <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e10" />
-      <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e11" />
-      <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e12" />
       <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e1" />
+      <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e14" />
+      <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e13" />
+      <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e12" />
+      <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e11" />
+      <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e10" />
+      <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e9" />
+      <config projectName="ejercicios_pc2" targetName="ejercicios_pc2_e8" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -49,7 +49,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../session7a" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -63,7 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.ejercicios_pc2_e10">
+  <component name="RunManager" selected="CMake Application.ejercicios_pc2_e2">
     <configuration name="ejercicios_pc2_e1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ejercicios_pc2" TARGET_NAME="ejercicios_pc2_e1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ejercicios_pc2" RUN_TARGET_NAME="ejercicios_pc2_e1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -166,6 +166,8 @@
       <workItem from="1570428213572" duration="1992000" />
       <workItem from="1570546102378" duration="32261000" />
       <workItem from="1570626851738" duration="7551000" />
+      <workItem from="1570843484466" duration="36000" />
+      <workItem from="1570843573219" duration="942000" />
     </task>
     <servers />
   </component>

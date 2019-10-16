@@ -3,6 +3,7 @@
 #include <ctime>
 using namespace std;
 typedef int type_n;
+typedef vector<vector<int>> t_matrix;
 void imprimir(vector<vector<int> >matrix, int n);
 void imprimir(vector<int>vector);
 vector<vector<int> > transpuesta ( vector<vector<int> >matrix);
@@ -43,7 +44,7 @@ vector<int> sumar_filas(vector<vector<int> >matrix){
     for(int i=0; i < matrix.size(); i++){
         int suma=0;
         for (int j=0;j<matrix[i].size();j++){
-            suma+=matrix[i][j];
+            suma=suma+matrix[i][j];
         }
         suma_fila.push_back(suma);
     }

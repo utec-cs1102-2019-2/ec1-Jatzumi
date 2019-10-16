@@ -44,8 +44,8 @@ void imprimir(int filas,int columnas,int **matrix){
     }
 }
 void optimizar(int filas,int columnas, int **matrix,int *kernel[]){
-    for (int i=0;i<filas-2;i++){
-        for(int j=0;j<columnas-2;j++){
+    for (int i=0;i<filas-2;i+=3){
+        for(int j=0;j<columnas-2;j+=3){
             multiply(i, j, i+3, j+3, matrix,kernel);
         }
     }

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="session8b" targetName="session8b_e1" />
       <config projectName="session8b" targetName="session8b_e2" />
+      <config projectName="session8b" targetName="session8b_e1" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -51,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.session8b_e1">
+  <component name="RunManager" selected="CMake Application.session8b_e2">
     <configuration name="session8b_e1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="session8b" TARGET_NAME="session8b_e1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="session8b" RUN_TARGET_NAME="session8b_e1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -77,7 +77,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570717517626</updated>
-      <workItem from="1570717519064" duration="4676000" />
+      <workItem from="1570717519064" duration="11225000" />
+      <workItem from="1571258874370" duration="163000" />
     </task>
     <servers />
   </component>
@@ -89,7 +90,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
