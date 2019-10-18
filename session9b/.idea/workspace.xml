@@ -2,8 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="session9a" targetName="session9a_e1" />
-      <config projectName="session9a" targetName="session9a_e2" />
+      <config projectName="session9b" targetName="session9b_e1" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -12,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0f23f84-dcbd-4228-b02e-b04b6379786d" name="Default Changelist" comment="" />
+    <list default="true" id="892ae7c4-5a5c-48f4-a08d-223f082c56c4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,11 +32,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1SIkWEIrDoouHjObzhNYMuEaoTB" />
+  <component name="ProjectId" id="1SKpSMNUbhGk5tYJDznVieFVj28" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../session9a" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -51,35 +50,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.session9a_e2">
-    <configuration name="session9a_e1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="session9a" TARGET_NAME="session9a_e1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="session9a" RUN_TARGET_NAME="session9a_e1">
+  <component name="RunManager">
+    <configuration name="session9b_e1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="session9b" TARGET_NAME="session9b_e1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="session9b" RUN_TARGET_NAME="session9b_e1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="session9a_e2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="session9a" TARGET_NAME="session9a_e2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="session9a" RUN_TARGET_NAME="session9a_e2">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="CMake Application.session9a_e1" />
-      <item itemvalue="CMake Application.session9a_e2" />
-    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d0f23f84-dcbd-4228-b02e-b04b6379786d" name="Default Changelist" comment="" />
-      <created>1571258526101</created>
+      <changelist id="892ae7c4-5a5c-48f4-a08d-223f082c56c4" name="Default Changelist" comment="" />
+      <created>1571322140848</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571258526101</updated>
-      <workItem from="1571258527472" duration="4830000" />
-      <workItem from="1571322124133" duration="17000" />
-      <workItem from="1571322180393" duration="3120000" />
+      <updated>1571322140848</updated>
+      <workItem from="1571322142045" duration="4283000" />
     </task>
     <servers />
   </component>
@@ -91,9 +79,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>

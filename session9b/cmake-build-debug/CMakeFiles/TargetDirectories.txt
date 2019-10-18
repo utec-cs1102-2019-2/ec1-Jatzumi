@@ -1,0 +1,3 @@
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session9b/cmake-build-debug/CMakeFiles/session9b_e1.dir
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session9b/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session9b/cmake-build-debug/CMakeFiles/rebuild_cache.dir

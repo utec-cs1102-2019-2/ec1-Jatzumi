@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session9b/Alumno.cpp
+iostream
+-
+Alumno.h
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session9b/Alumno.h
+
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session9b/Alumno.h
+iostream
+-
+
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session9b/ejercicio1.cpp
+Alumno.h
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session9b/Alumno.h
+iostream
+-
+
