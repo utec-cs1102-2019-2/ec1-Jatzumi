@@ -6,10 +6,6 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session10a/CComputadora.cpp
-CComputadora.h
-C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session10a/CComputadora.h
-
 C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session10a/CComputadora.h
 CTeclado.h
 C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session10a/CTeclado.h
@@ -31,20 +27,12 @@ iostream
 C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session10a/laboratorio.cpp
 laboratorio.h
 C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session10a/laboratorio.h
+CComputadora.h
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session10a/CComputadora.h
 
 C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session10a/laboratorio.h
 vector
 -
 CComputadora.h
 C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session10a/CComputadora.h
-
-C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session10a/main.cpp
-iostream
--
-CComputadora.h
-C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session10a/CComputadora.h
-CMouse.h
-C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session10a/CMouse.h
-CTeclado.h
-C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session10a/CTeclado.h
 
