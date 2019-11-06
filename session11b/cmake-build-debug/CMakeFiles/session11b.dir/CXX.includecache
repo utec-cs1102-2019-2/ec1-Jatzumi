@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session11b/CAlimento.cpp
+CAlimento.h
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session11b/CAlimento.h
+
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session11b/CAlimento.h
+Tipos.h
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session11b/Tipos.h
+
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session11b/Tipos.h
+iostream
+-
+iomanip
+-
+

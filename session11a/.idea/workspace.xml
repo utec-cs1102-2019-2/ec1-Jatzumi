@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="session10b" targetName="session10b" />
+      <config projectName="session11a" targetName="session11a" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f83b777-4627-4b18-89b7-c6913eb1a6b8" name="Default Changelist" comment="" />
+    <list default="true" id="d4b51099-41a0-4acd-a459-bed762c8eb9b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,11 +32,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1SecN0Hz8HAbYpbSnQj4JA5o7Ko" />
+  <component name="ProjectId" id="1SwFuSWRIlo17nDTEmGvXijatNu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../buscaminas" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../session11b" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -51,7 +52,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="session10b" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="session10b" TARGET_NAME="session10b" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="session10b" RUN_TARGET_NAME="session10b">
+    <configuration name="session11a" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="session11a" TARGET_NAME="session11a" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="session11a" RUN_TARGET_NAME="session11a">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -62,13 +63,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4f83b777-4627-4b18-89b7-c6913eb1a6b8" name="Default Changelist" comment="" />
-      <created>1571927457175</created>
+      <changelist id="d4b51099-41a0-4acd-a459-bed762c8eb9b" name="Default Changelist" comment="" />
+      <created>1572466973373</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571927457175</updated>
-      <workItem from="1571927458416" duration="4432000" />
-      <workItem from="1572040953576" duration="1283000" />
+      <updated>1572466973373</updated>
+      <workItem from="1572466981153" duration="16643000" />
+      <workItem from="1572531782580" duration="1487000" />
     </task>
     <servers />
   </component>
@@ -87,5 +88,31 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Tablero.cpp</url>
+          <line>74</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Tablero.cpp</url>
+          <line>18</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Tablero.cpp</url>
+          <line>92</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Tablero.cpp</url>
+          <line>90</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

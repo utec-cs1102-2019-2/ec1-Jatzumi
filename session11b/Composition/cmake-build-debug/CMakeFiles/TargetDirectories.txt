@@ -1,0 +1,3 @@
+C:/Users/jatzu/OneDrive/Documentos/tarea mago/Composition/cmake-build-debug/CMakeFiles/session11b2.dir
+C:/Users/jatzu/OneDrive/Documentos/tarea mago/Composition/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jatzu/OneDrive/Documentos/tarea mago/Composition/cmake-build-debug/CMakeFiles/rebuild_cache.dir

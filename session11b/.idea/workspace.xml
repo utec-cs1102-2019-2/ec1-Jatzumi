@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="session10b" targetName="session10b" />
+      <config projectName="session11b" targetName="session11b1" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f83b777-4627-4b18-89b7-c6913eb1a6b8" name="Default Changelist" comment="" />
+    <list default="true" id="d7cae56d-83e0-4574-be12-3beadcc400ca" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,11 +32,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1SecN0Hz8HAbYpbSnQj4JA5o7Ko" />
+  <component name="ProjectId" id="1SyOXnKpYnQH2UvJiksHnX3P5JV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../buscaminas" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../tarea mago/Composition" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -51,7 +51,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="session10b" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="session10b" TARGET_NAME="session10b" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="session10b" RUN_TARGET_NAME="session10b">
+    <configuration name="session11b1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="session11b" TARGET_NAME="session11b1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="session11b" RUN_TARGET_NAME="session11b1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -62,13 +62,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4f83b777-4627-4b18-89b7-c6913eb1a6b8" name="Default Changelist" comment="" />
-      <created>1571927457175</created>
+      <changelist id="d7cae56d-83e0-4574-be12-3beadcc400ca" name="Default Changelist" comment="" />
+      <created>1572532410680</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571927457175</updated>
-      <workItem from="1571927458416" duration="4432000" />
-      <workItem from="1572040953576" duration="1283000" />
+      <updated>1572532410680</updated>
+      <workItem from="1572532411997" duration="6225000" />
+      <workItem from="1572892636134" duration="8240000" />
+      <workItem from="1573012070804" duration="2562000" />
+      <workItem from="1573065791662" duration="952000" />
+      <workItem from="1573066802751" duration="62000" />
+      <workItem from="1573066897388" duration="942000" />
     </task>
     <servers />
   </component>
