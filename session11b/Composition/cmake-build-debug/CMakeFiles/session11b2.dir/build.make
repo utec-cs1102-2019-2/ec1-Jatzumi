@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2019.2.2\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\jatzu\OneDrive\Documentos\tarea mago\Composition"
+CMAKE_SOURCE_DIR = C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\session11b\Composition
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\jatzu\OneDrive\Documentos\tarea mago\Composition\cmake-build-debug"
+CMAKE_BINARY_DIR = C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\session11b\Composition\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/session11b2.dir/depend.make
@@ -58,55 +58,55 @@ include CMakeFiles/session11b2.dir/flags.make
 
 CMakeFiles/session11b2.dir/main.cpp.obj: CMakeFiles/session11b2.dir/flags.make
 CMakeFiles/session11b2.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jatzu\OneDrive\Documentos\tarea mago\Composition\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/session11b2.dir/main.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\session11b2.dir\main.cpp.obj -c "C:\Users\jatzu\OneDrive\Documentos\tarea mago\Composition\main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\session11b\Composition\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/session11b2.dir/main.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\session11b2.dir\main.cpp.obj -c C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\session11b\Composition\main.cpp
 
 CMakeFiles/session11b2.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/session11b2.dir/main.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jatzu\OneDrive\Documentos\tarea mago\Composition\main.cpp" > CMakeFiles\session11b2.dir\main.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\session11b\Composition\main.cpp > CMakeFiles\session11b2.dir\main.cpp.i
 
 CMakeFiles/session11b2.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/session11b2.dir/main.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jatzu\OneDrive\Documentos\tarea mago\Composition\main.cpp" -o CMakeFiles\session11b2.dir\main.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\session11b\Composition\main.cpp -o CMakeFiles\session11b2.dir\main.cpp.s
 
 CMakeFiles/session11b2.dir/CMago.cpp.obj: CMakeFiles/session11b2.dir/flags.make
 CMakeFiles/session11b2.dir/CMago.cpp.obj: ../CMago.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jatzu\OneDrive\Documentos\tarea mago\Composition\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/session11b2.dir/CMago.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\session11b2.dir\CMago.cpp.obj -c "C:\Users\jatzu\OneDrive\Documentos\tarea mago\Composition\CMago.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\session11b\Composition\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/session11b2.dir/CMago.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\session11b2.dir\CMago.cpp.obj -c C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\session11b\Composition\CMago.cpp
 
 CMakeFiles/session11b2.dir/CMago.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/session11b2.dir/CMago.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jatzu\OneDrive\Documentos\tarea mago\Composition\CMago.cpp" > CMakeFiles\session11b2.dir\CMago.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\session11b\Composition\CMago.cpp > CMakeFiles\session11b2.dir\CMago.cpp.i
 
 CMakeFiles/session11b2.dir/CMago.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/session11b2.dir/CMago.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jatzu\OneDrive\Documentos\tarea mago\Composition\CMago.cpp" -o CMakeFiles\session11b2.dir\CMago.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\session11b\Composition\CMago.cpp -o CMakeFiles\session11b2.dir\CMago.cpp.s
 
 CMakeFiles/session11b2.dir/CAnimo.cpp.obj: CMakeFiles/session11b2.dir/flags.make
 CMakeFiles/session11b2.dir/CAnimo.cpp.obj: ../CAnimo.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jatzu\OneDrive\Documentos\tarea mago\Composition\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/session11b2.dir/CAnimo.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\session11b2.dir\CAnimo.cpp.obj -c "C:\Users\jatzu\OneDrive\Documentos\tarea mago\Composition\CAnimo.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\session11b\Composition\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/session11b2.dir/CAnimo.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\session11b2.dir\CAnimo.cpp.obj -c C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\session11b\Composition\CAnimo.cpp
 
 CMakeFiles/session11b2.dir/CAnimo.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/session11b2.dir/CAnimo.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jatzu\OneDrive\Documentos\tarea mago\Composition\CAnimo.cpp" > CMakeFiles\session11b2.dir\CAnimo.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\session11b\Composition\CAnimo.cpp > CMakeFiles\session11b2.dir\CAnimo.cpp.i
 
 CMakeFiles/session11b2.dir/CAnimo.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/session11b2.dir/CAnimo.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jatzu\OneDrive\Documentos\tarea mago\Composition\CAnimo.cpp" -o CMakeFiles\session11b2.dir\CAnimo.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\session11b\Composition\CAnimo.cpp -o CMakeFiles\session11b2.dir\CAnimo.cpp.s
 
 CMakeFiles/session11b2.dir/CComida.cpp.obj: CMakeFiles/session11b2.dir/flags.make
 CMakeFiles/session11b2.dir/CComida.cpp.obj: ../CComida.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\jatzu\OneDrive\Documentos\tarea mago\Composition\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/session11b2.dir/CComida.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\session11b2.dir\CComida.cpp.obj -c "C:\Users\jatzu\OneDrive\Documentos\tarea mago\Composition\CComida.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\session11b\Composition\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/session11b2.dir/CComida.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\session11b2.dir\CComida.cpp.obj -c C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\session11b\Composition\CComida.cpp
 
 CMakeFiles/session11b2.dir/CComida.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/session11b2.dir/CComida.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\jatzu\OneDrive\Documentos\tarea mago\Composition\CComida.cpp" > CMakeFiles\session11b2.dir\CComida.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\session11b\Composition\CComida.cpp > CMakeFiles\session11b2.dir\CComida.cpp.i
 
 CMakeFiles/session11b2.dir/CComida.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/session11b2.dir/CComida.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\jatzu\OneDrive\Documentos\tarea mago\Composition\CComida.cpp" -o CMakeFiles\session11b2.dir\CComida.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\session11b\Composition\CComida.cpp -o CMakeFiles\session11b2.dir\CComida.cpp.s
 
 # Object files for target session11b2
 session11b2_OBJECTS = \
@@ -126,7 +126,7 @@ session11b2.exe: CMakeFiles/session11b2.dir/build.make
 session11b2.exe: CMakeFiles/session11b2.dir/linklibs.rsp
 session11b2.exe: CMakeFiles/session11b2.dir/objects1.rsp
 session11b2.exe: CMakeFiles/session11b2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\jatzu\OneDrive\Documentos\tarea mago\Composition\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable session11b2.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\session11b\Composition\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable session11b2.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\session11b2.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -139,6 +139,6 @@ CMakeFiles/session11b2.dir/clean:
 .PHONY : CMakeFiles/session11b2.dir/clean
 
 CMakeFiles/session11b2.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\jatzu\OneDrive\Documentos\tarea mago\Composition" "C:\Users\jatzu\OneDrive\Documentos\tarea mago\Composition" "C:\Users\jatzu\OneDrive\Documentos\tarea mago\Composition\cmake-build-debug" "C:\Users\jatzu\OneDrive\Documentos\tarea mago\Composition\cmake-build-debug" "C:\Users\jatzu\OneDrive\Documentos\tarea mago\Composition\cmake-build-debug\CMakeFiles\session11b2.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\session11b\Composition C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\session11b\Composition C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\session11b\Composition\cmake-build-debug C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\session11b\Composition\cmake-build-debug C:\Users\jatzu\OneDrive\Documentos\GitHub\ec1-Jatzumi\session11b\Composition\cmake-build-debug\CMakeFiles\session11b2.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/session11b2.dir/depend
 

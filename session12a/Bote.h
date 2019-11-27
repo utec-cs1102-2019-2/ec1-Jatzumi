@@ -7,8 +7,8 @@
 class Bote: public Vehiculo {
 public:
     int velocidad;
-    void avanzar();
-    void retroceder();
+    void avanzar() override ;
+    void retroceder() override ;
     Bote();
 };
 

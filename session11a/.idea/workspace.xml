@@ -36,7 +36,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../session11b" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../guia de ejercicios 3/e45" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunDashboard">
@@ -70,6 +70,10 @@
       <updated>1572466973373</updated>
       <workItem from="1572466981153" duration="16643000" />
       <workItem from="1572531782580" duration="1487000" />
+      <workItem from="1573473232078" duration="3602000" />
+      <workItem from="1573694892372" duration="57000" />
+      <workItem from="1573695195361" duration="1219000" />
+      <workItem from="1573729350988" duration="534000" />
     </task>
     <servers />
   </component>
@@ -94,23 +98,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/Tablero.cpp</url>
-          <line>74</line>
+          <line>33</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/Tablero.cpp</url>
-          <line>18</line>
+          <line>15</line>
           <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/Tablero.cpp</url>
-          <line>92</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/Tablero.cpp</url>
-          <line>90</line>
-          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

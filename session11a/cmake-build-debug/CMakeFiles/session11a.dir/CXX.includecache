@@ -6,24 +6,26 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session11a/Bloque.cpp
+Bloque.h
 C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session11a/Bloque.h
+
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session11a/Bloque.h
+
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session11a/Tablero.cpp
+Tablero.h
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session11a/Tablero.h
 
 C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session11a/Tablero.h
 iostream
 -
-Bloque.h
-C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session11a/Bloque.h
 vector
 -
+Bloque.h
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session11a/Bloque.h
 
 C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session11a/main.cpp
 iostream
--
-cstdlib
--
-time.h
--
-vector
 -
 Tablero.h
 C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session11a/Tablero.h

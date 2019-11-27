@@ -6,29 +6,31 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/jatzu/OneDrive/Documentos/tarea mago/Composition/CAnimo.h
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session11b/Composition/CAnimo.h
 Tipos.h
-C:/Users/jatzu/OneDrive/Documentos/tarea mago/Composition/Tipos.h
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session11b/Composition/Tipos.h
 
-C:/Users/jatzu/OneDrive/Documentos/tarea mago/Composition/CComida.h
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session11b/Composition/CComida.h
 iostream
 -
 Tipos.h
-C:/Users/jatzu/OneDrive/Documentos/tarea mago/Composition/Tipos.h
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session11b/Composition/Tipos.h
 
-C:/Users/jatzu/OneDrive/Documentos/tarea mago/Composition/CMago.cpp
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session11b/Composition/CMago.cpp
 CMago.h
-C:/Users/jatzu/OneDrive/Documentos/tarea mago/Composition/CMago.h
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session11b/Composition/CMago.h
 
-C:/Users/jatzu/OneDrive/Documentos/tarea mago/Composition/CMago.h
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session11b/Composition/CMago.h
+vector
+-
 CComida.h
-C:/Users/jatzu/OneDrive/Documentos/tarea mago/Composition/CComida.h
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session11b/Composition/CComida.h
 Tipos.h
-C:/Users/jatzu/OneDrive/Documentos/tarea mago/Composition/Tipos.h
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session11b/Composition/Tipos.h
 CAnimo.h
-C:/Users/jatzu/OneDrive/Documentos/tarea mago/Composition/CAnimo.h
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session11b/Composition/CAnimo.h
 
-C:/Users/jatzu/OneDrive/Documentos/tarea mago/Composition/Tipos.h
+C:/Users/jatzu/OneDrive/Documentos/GitHub/ec1-Jatzumi/session11b/Composition/Tipos.h
 iostream
 -
 iomanip

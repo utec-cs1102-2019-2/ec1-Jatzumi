@@ -2,31 +2,29 @@
 CComida::CComida() {}
 CComida::~CComida() {}
 void CComida::setNombre(TipoString nombre) {
-    m_Nombre=nombre;
-    setPuntos();
+    this->m_Nombre=nombre;
 }
-void CComida::setPuntos() {
+TipoEntero CComida::getPuntos(){
+    int punt=0;
     if ( m_Nombre  == "Abarrote" ){
-        puntos=puntos+2;
+        punt=punt+2;
     }
     if (m_Nombre == "Lembas" ){
-        puntos+=3;
+        punt+=3;
     }
     if (m_Nombre == "Manzana" ){
-        puntos++;
+        punt=punt+1;
     }
     if (m_Nombre == "Melon" ){
-        puntos++;
+        punt++;
     }
     if (m_Nombre== "HoneyCake" ){
-        puntos+=5;
+        punt+=15;
     }
     if (m_Nombre== "Hongos" ){
-        puntos-=10;
+        punt-=10;
     }
     else
-        puntos-=1;
-}
-void CComida::printPuntos(ostream &os) {
-    os<<puntos;
+        punt-=1;
+    return punt;
 }

@@ -8,7 +8,6 @@ class CAnimo
   public:
     CAnimo();
     virtual ~CAnimo();
-    CAnimo(TipoEntero puntos);
     void setAnimo(TipoEntero puntos);
     void printAnimo(ostream &os);
 };

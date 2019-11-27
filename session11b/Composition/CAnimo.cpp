@@ -4,10 +4,6 @@ CAnimo::~CAnimo(){}
 
 CAnimo::CAnimo(){}
 
-CAnimo::CAnimo(TipoEntero puntos)
-{
-            setAnimo(puntos);
-}
 void CAnimo::setAnimo(TipoEntero puntos)
 {
     if (puntos<-5)
